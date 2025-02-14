@@ -1,0 +1,120 @@
+\begin{frame}{Binned Momentum Analysis}
+    \begin{itemize}
+        \item Much of the variation in the track variables between 2023 and 2024 data can be attributed to the difference in the momentum distribution.
+        \item To get a more equitable comparison between 2023 and 2024 data, we binned the data by momentum.
+        \item Split the momenta into bins (MeV)
+        \begin{itemize}
+            \item Bin0: [0, 20e3]
+            \item Bins1-4: [ 20e3, 40e3, 60e3, 80e3, 100e3]
+            \item Bins5-9:   [ 100e3, 200e3, 400e3, 600e3, 800e3, 1000e3]
+            \item Bin10: [1000e3, 20e6]
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\newcommand{\makebinnedframes}[2]{
+    % \newcommand{\title_text}{#2}
+    \begin{frame}{Distribution of #2 across years}
+        \newcommand{\colname}{#1}
+        \begin{figure}
+            \includegraphics[width=0.8\textwidth]{ColumnPlots/\colname_ratio.pdf}
+        \end{figure}
+    \end{frame}
+    \begin{frame}{Distribution of #2 binned by Momenta}
+    \newcommand{\colname}{#1}
+    \begin{columns}
+        \begin{column}{0.55 \linewidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=1.0\textwidth]{binned_plots/\colname_bin0.pdf}
+                \caption{Distribution of #2 in Bin0 \newline[0 $\geq$ Track\_p0 $\leq$ 20e3 MeV]}
+            \end{figure}
+        \end{column}
+        \begin{column}{0.55 \linewidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=1.0\textwidth]{binned_plots/\colname_bin10.pdf}
+                \caption{Distribution of #2 in Bin10 \newline[1e7 MeV $\geq$ Track\_p0 $\leq$ 2e7 MeV]}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{Distribution of #2 binned by Momenta}
+    \newcommand{\colname}{#1}
+    \newcommand{\colwidth}{0.5 \linewidth}
+    \newcommand{\figwidth}{0.83 \linewidth}
+    \begin{columns}
+        \begin{column}{\colwidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin1.pdf}
+                \caption{Distribution of #2 in Bin1 \newline[20e3 $\geq$ Track\_p0 $\leq$ 40e3 MeV]}
+            \end{figure}
+            \vspace{-0.65cm}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin3.pdf}
+                \caption{Distribution of #2 in Bin3 \newline[60e3 $\geq$ Track\_p0 $\leq$ 80e3 MeV]}
+            \end{figure}
+        \end{column}
+        \begin{column}{\colwidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin2.pdf}
+                \caption{Distribution of #2 in Bin2 \newline[40e3 $\geq$ Track\_p0 $\leq$ 60e3 MeV]}
+            \end{figure}
+            \vspace{-0.65cm}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin4.pdf}
+                \caption{Distribution of #2 in Bin4 \newline[80e3 $\geq$ Track\_p0 $\leq$ 100e3 MeV]}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{Distribution of #2 binned by Momenta}
+    \newcommand{\colname}{#1}
+    \newcommand{\colwidth}{0.5 \linewidth}
+    \newcommand{\figwidth}{0.83 \linewidth}
+    \begin{columns}
+        \begin{column}{\colwidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin5.pdf}
+                \caption{Distribution of #2 in Bin5 \newline[100e3 MeV $\geq$ Track\_p0 $\leq$ 200e3 MeV]}
+            \end{figure}
+            \vspace{-0.65cm}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin7.pdf}
+                \caption{Distribution of #2 in Bin7 \newline[400e3 $\geq$ Track\_p0 $\leq$ 600e3 MeV]}
+            \end{figure}
+        \end{column}
+        \begin{column}{\colwidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin6.pdf}
+                \caption{Distribution of #2 in Bin6 \newline[200e3 $\geq$ Track\_p0 $\leq$ 400e3 MeV]}
+            \end{figure}
+            \vspace{-0.65cm}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\figwidth]{binned_plots/\colname_bin8.pdf}
+                \caption{Distribution of #2 in Bin8 \newline[600e3 $\geq$ Track\_p0 $\leq$ 800e3 MeV]}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
+}
+
+\makebinnedframes{Track_Chi2}{Track $\chi^2$}
+\makebinnedframes{Track_nDoF}{Track nDoF}
+\makebinnedframes{Track_Chi2perDoF}{Track $\chi^2$/DoF}
+\makebinnedframes{Track_charge}{Track charge}
+\makebinnedframes{longTracks}{longTracks}
+\makebinnedframes{Track_nLayers}{Track nLayers}
+\makebinnedframes{Track_ThetaX_0}{Track $\theta_x$}
+\makebinnedframes{Track_ThetaY_0}{Track $\theta_y$}
+
