@@ -38,51 +38,215 @@
 \end{frame}
 
 \begin{frame}{Yield Plots for F241-2024}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NEventsbyLumi.pdf}
-	\end{figure}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NTracksbyLumi.pdf}
-	\end{figure}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NEventsbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.06,0.6) rectangle (0.25,0.84);
+			\node[red, below, scale=0.6] at (0.155,0.6) {\tiny Early Runs Erratic};
+			\draw[red] (0.455,0.69) rectangle (0.475,0.73);
+			\node[red, right, scale=0.6] at (0.48,0.71) {\tiny Potentially Problematic [14776]};
+		\end{scope}
+	\end{tikzpicture}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NTracksbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.06,0.35) rectangle (0.25,0.4);
+			\node[red, below, scale=0.6] at (0.155,0.36) {\tiny Less Pronounced!};
+			\draw[red] (0.455,0.37) rectangle (0.475,0.4);
+			% \node[red, right, scale=0.6] at (0.48,0.39) {\tiny Potentially Problematic [14776]};
+		\end{scope}
+	\end{tikzpicture}
 \end{frame}
 
 \begin{frame}{Yield Plots for Tungsten-2024}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf}
-	\end{figure}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf}
-	\end{figure}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.065,0.198) rectangle (0.17,0.22);
+			\node[red, above, scale=0.6] at (0.12,0.24) {\tiny Early Runs High?};
+			\draw[red] (0.22,0.2) rectangle (0.37,0.93);
+			\node[red, right, scale=0.6] at (0.37,0.6) {\tiny Unusually High! Throws off the scale};
+			% \draw[red] (0.455,0.69) rectangle (0.475,0.73);
+			% \node[red, right, scale=0.6] at (0.48,0.71) {\tiny Potentially Problematic [14776]};
+		\end{scope}
+	\end{tikzpicture}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.062,0.335) rectangle (0.165,0.36);
+			\node[red, above, scale=0.6] at (0.12,0.36) {\tiny Seem better here?};
+			\draw[red] (0.22,0.45) rectangle (0.37,0.93);
+			\node[red, right, scale=0.6] at (0.37,0.65) {\tiny Unusual!};
+			\draw[red] (0.64,0.35) rectangle (0.8,0.4);
+			\draw[red] (0.95,0.35) rectangle (0.99,0.4);
+			\draw[red] (0.8,0.4) -- (0.95,0.4);
+			\node[red, right, scale=0.6] at (0.83,0.43) {\tiny Slightly Elevated?};
+		\end{scope}
+	\end{tikzpicture}
 \end{frame}
 
 \begin{frame}{Yield Plots for F242-2024}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NEventsbyLumi.pdf}
-	\end{figure}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NTracksbyLumi.pdf}
-	\end{figure}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NEventsbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.06,0.8) rectangle (0.08,0.9);
+			\node[red, right, scale=0.6] at (0.08,0.85) {\tiny High};
+			\draw[red] (0.335,0.76) rectangle (0.35,0.82);
+			\node[red, right, scale=0.6] at (0.35,0.80) {\tiny  High};
+			\draw[red] (0.215,0.32) rectangle (0.23,0.355);
+			\node[red, below, scale=0.6] at (0.225,0.34) {\tiny  Low?};
+			\draw[red] (0.879,0.275) rectangle (0.89,0.31);
+			\node[red, below, scale=0.6] at (0.885,0.275) {\tiny  Low};
+		\end{scope}
+	\end{tikzpicture}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NTracksbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.06,0.34) rectangle (0.2,0.4);
+			\node[red, above, scale=0.6] at (0.13,0.4) {\tiny Slightly Elevated};
+			\draw[red] (0.335,0.65) rectangle (0.35,0.7);
+			\node[red, above, scale=0.6] at (0.3425,0.7) {\tiny  High};
+			\draw[red] (0.215,0.32) rectangle (0.23,0.355);
+			\node[red, below, scale=0.6] at (0.225,0.34) {\tiny  Low?};
+			\draw[red] (0.879,0.275) rectangle (0.89,0.31);
+			\node[red, below, scale=0.6] at (0.885,0.275) {\tiny  Low};
+		\end{scope}
+	\end{tikzpicture}
 \end{frame}
 
 \begin{frame}{Yield Plots for CaloNu-2024}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf}
-	\end{figure}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf}
-	\end{figure}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.05,ystep=.05] (0,0) grid (1,1);
+			% \foreach \x in {0,1,...,9} { \node [anchor=north] at (\x/10,0) {0.\x}; }
+			% \foreach \y in {0,1,...,9} { \node [anchor=east] at (0,\y/10) {0.\y}; }
+			\draw[red] (0.78,0.71) rectangle (0.81,0.76);
+			\node[red, above, scale=0.6] at (0.795,0.76) {\tiny High};
+			\draw[red] (0.335,0.41) rectangle (0.35,0.45);
+			\node[red, above, scale=0.6] at (0.3425,0.45) {\tiny High?};
+			\draw[red] (0.215,0.35) rectangle (0.225,0.375);
+			\draw[red] (0.595,0.35) rectangle (0.61,0.38);
+			\draw[red] (0.639,0.358) rectangle (0.655,0.385);
+			\draw[red] (0.675,0.35) rectangle (0.683,0.373);
+			\draw[red] (0.872,0.36) rectangle (0.88,0.38);
+			\draw[red] (0.445,0.17) rectangle (0.46,0.2);
+			\node[red, above, scale=0.6] at (0.495, 0.19) {\tiny Low};
+			\draw[red] (0.525,0.2) rectangle (0.54,0.22);
+			\draw[red] (0.965,0.16) rectangle (0.975,0.19);
+			\node[red, above, scale=0.6] at (0.97,0.19) {\tiny Low};
+		\end{scope}
+	\end{tikzpicture}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			\draw[red] (0.78,0.71) rectangle (0.81,0.76);
+			\node[red, above, scale=0.6] at (0.795,0.76) {\tiny High};
+			\draw[red] (0.3375,0.39) rectangle (0.35,0.41);
+			\node[red, above, scale=0.6] at (0.3475,0.41) {\tiny Better?};
+			\draw[red] (0.215,0.35) rectangle (0.225,0.375);
+			\draw[red] (0.595,0.35) rectangle (0.61,0.38);
+			\draw[red] (0.639,0.358) rectangle (0.655,0.385);
+			\draw[red] (0.675,0.35) rectangle (0.683,0.373);
+			\draw[red] (0.872,0.36) rectangle (0.88,0.38);
+			\draw[red] (0.445,0.17) rectangle (0.46,0.2);
+			\node[red, above, scale=0.6] at (0.495, 0.19) {\tiny Low};
+			\draw[red] (0.525,0.2) rectangle (0.54,0.22);
+			\draw[red] (0.965,0.16) rectangle (0.975,0.19);
+			\node[red, above, scale=0.6] at (0.97,0.19) {\tiny Low};
+		\end{scope}
+	\end{tikzpicture}
 \end{frame}
 
 \begin{frame}{Yield Plots for F243-2024}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NEventsbyLumi.pdf}
-	\end{figure}
-	\begin{figure}
-		\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NTracksbyLumi.pdf}
-	\end{figure}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NEventsbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.15,0.29) rectangle (0.165,0.33);
+			\draw[red] (0.19,0.15) rectangle (0.205,0.17);
+			\node[red, above, scale=0.6] at (0.1975,0.16) {\tiny Zero!};
+			\draw[red] (0.515,0.15) rectangle (0.53,0.17);
+			\draw[red] (0.598,0.15) rectangle (0.61,0.17);
+			\node[red, above, scale=0.6] at (0.564,0.15) {\tiny Zero!};
+			\draw[red] (0.64,0.2) rectangle (0.65,0.25);
+			\draw[red] (0.76,0.18) rectangle (0.773,0.22);
+			\draw[red] (0.84,0.28) rectangle (0.854,0.3);
+			\draw[red] (0.925,0.205) rectangle (0.935,0.23);
+		\end{scope}
+	\end{tikzpicture}
+	\begin{tikzpicture}
+		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NTracksbyLumi.pdf}};
+		\begin{scope}[x={(image.south east)},y={(image.north west)}]
+			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+			\draw[red] (0.15,0.29) rectangle (0.165,0.33);
+			\draw[red] (0.19,0.15) rectangle (0.205,0.17);
+			\node[red, above, scale=0.6] at (0.1975,0.16) {\tiny Zero!};
+			\draw[red] (0.515,0.15) rectangle (0.53,0.17);
+			\draw[red] (0.598,0.15) rectangle (0.61,0.17);
+			\node[red, above, scale=0.6] at (0.564,0.15) {\tiny Zero!};
+			\draw[red] (0.64,0.2) rectangle (0.65,0.25);
+			\draw[red] (0.76,0.18) rectangle (0.773,0.22);
+			\draw[red] (0.84,0.28) rectangle (0.854,0.3);
+			\draw[red] (0.925,0.205) rectangle (0.935,0.23);
+		\end{scope}
+	\end{tikzpicture}
 \end{frame}
 
-\begin{frame}{Median Yeilds across Runs}
+
+
+% \begin{frame}{Yield Plots for F241-2024}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NEventsbyLumi.pdf}
+% 	\end{figure}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NTracksbyLumi.pdf}
+% 	\end{figure}
+% \end{frame}
+
+% \begin{frame}{Yield Plots for Tungsten-2024}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf}
+% 	\end{figure}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf}
+% 	\end{figure}
+% \end{frame}
+
+% \begin{frame}{Yield Plots for F242-2024}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NEventsbyLumi.pdf}
+% 	\end{figure}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NTracksbyLumi.pdf}
+% 	\end{figure}
+% \end{frame}
+
+% \begin{frame}{Yield Plots for CaloNu-2024}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf}
+% 	\end{figure}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf}
+% 	\end{figure}
+% \end{frame}
+
+% \begin{frame}{Yield Plots for F243-2024}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NEventsbyLumi.pdf}
+% 	\end{figure}
+% 	\begin{figure}
+% 		\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NTracksbyLumi.pdf}
+% 	\end{figure}
+% \end{frame}
+
+\begin{frame}{Median Yields across Runs}
 	\begin{figure}
 		\includegraphics[width=\linewidth]{./RunwisePlots/MedianYieldsPhase.pdf}
 	\end{figure}

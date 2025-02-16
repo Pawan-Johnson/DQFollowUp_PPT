@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  14 FEB 2025 15:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  16 FEB 2025 10:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1439,12 +1439,12 @@ Package pdftex.def Info: ./assets/BCIDEfficiency_p0011.pdf  used on input line 3
 <RunwisePlots/F241-2024_NEventsbyLumi.pdf, id=3680, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F241-2024_NEventsbyLumi.pdf  used on input line 47.
+Package pdftex.def Info: RunwisePlots/F241-2024_NEventsbyLumi.pdf  used on input line 61.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F241-2024_NTracksbyLumi.pdf, id=3681, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input line 47.
+Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input line 61.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [40
 
@@ -1452,12 +1452,12 @@ Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input
 <RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf, id=3768, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf  used on input line 56.
+Package pdftex.def Info: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf  used on input line 90.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf, id=3769, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on input line 56.
+Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on input line 90.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [41
 
@@ -1465,12 +1465,12 @@ Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on i
 <RunwisePlots/F242-2024_NEventsbyLumi.pdf, id=3859, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F242-2024_NEventsbyLumi.pdf  used on input line 65.
+Package pdftex.def Info: RunwisePlots/F242-2024_NEventsbyLumi.pdf  used on input line 121.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F242-2024_NTracksbyLumi.pdf, id=3860, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input line 65.
+Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input line 121.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [42
 
@@ -1478,12 +1478,12 @@ Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input
 <RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf, id=3947, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf  used on input line 74.
+Package pdftex.def Info: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf  used on input line 165.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf, id=3948, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on input line 74.
+Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on input line 165.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [43
 
@@ -1491,12 +1491,12 @@ Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on inp
 <RunwisePlots/F243-2024_NEventsbyLumi.pdf, id=4039, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F243-2024_NEventsbyLumi.pdf  used on input line 83.
+Package pdftex.def Info: RunwisePlots/F243-2024_NEventsbyLumi.pdf  used on input line 200.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F243-2024_NTracksbyLumi.pdf, id=4040, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input line 83.
+Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input line 200.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [44
 
@@ -1504,7 +1504,7 @@ Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input
 <./RunwisePlots/MedianYieldsPhase.pdf, id=4127, 1445.4pt x 867.24pt>
 File: ./RunwisePlots/MedianYieldsPhase.pdf Graphic file (type pdf)
 <use ./RunwisePlots/MedianYieldsPhase.pdf>
-Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input line 93.
+Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input line 257.
 (pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
  [45
 
@@ -1514,10 +1514,10 @@ Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input lin
 <./RunwisePlots/Track_x0_runwise.pdf, id=4190, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_x0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_x0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line 107.
+Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line 271.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 107
+Overfull \vbox (2.64003pt too high) detected at line 271
  []
 
 [47
@@ -1526,10 +1526,10 @@ Overfull \vbox (2.64003pt too high) detected at line 107
 <./RunwisePlots/Track_y0_runwise.pdf, id=4240, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_y0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_y0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line 112.
+Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line 276.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 112
+Overfull \vbox (2.64003pt too high) detected at line 276
  []
 
 [48
@@ -1538,10 +1538,10 @@ Overfull \vbox (2.64003pt too high) detected at line 112
 <./RunwisePlots/Track_ThetaX_0_runwise.pdf, id=4291, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaX_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaX_0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on input line 118.
+Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on input line 282.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 118
+Overfull \vbox (2.64003pt too high) detected at line 282
  []
 
 [49
@@ -1550,10 +1550,10 @@ Overfull \vbox (2.64003pt too high) detected at line 118
 <./RunwisePlots/Track_ThetaY_0_runwise.pdf, id=4342, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaY_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaY_0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on input line 123.
+Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on input line 287.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 123
+Overfull \vbox (2.64003pt too high) detected at line 287
  []
 
 [50
@@ -1562,10 +1562,10 @@ Overfull \vbox (2.64003pt too high) detected at line 123
 <./RunwisePlots/Track_p0_runwise.pdf, id=4392, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_p0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_p0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line 129.
+Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line 293.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 129
+Overfull \vbox (2.64003pt too high) detected at line 293
  []
 
 [51
@@ -1574,12 +1574,12 @@ Overfull \vbox (2.64003pt too high) detected at line 129
 <./RunwisePlots/longTracks_runwise.pdf, id=4442, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/longTracks_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/longTracks_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/longTracks_runwise.pdf  used on input line 157.
+Package pdftex.def Info: ./RunwisePlots/longTracks_runwise.pdf  used on input line 321.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
 <RunwisePlots/longTracks_normalisedfrom2_runwise.pdf, id=4443, 569.12625pt x 408.52625pt>
 File: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf Graphic file (type pdf)
 <use RunwisePlots/longTracks_normalisedfrom2_runwise.pdf>
-Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  used on input line 157.
+Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  used on input line 321.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
  [52
 
@@ -1587,7 +1587,7 @@ Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  us
 <./RunwisePlots/Track_charge_runwise.pdf, id=4537, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_charge_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_charge_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input line 161.
+Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input line 325.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [53
 
@@ -1595,7 +1595,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input 
 <./RunwisePlots/Track_Chi2_runwise.pdf, id=4587, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input line 165.
+Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input line 329.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [54
 
@@ -1603,7 +1603,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input li
 <./RunwisePlots/Track_nDoF_runwise.pdf, id=4637, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nDoF_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input line 169.
+Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input line 333.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [55
 
@@ -1611,7 +1611,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input li
 <./RunwisePlots/Track_Chi2perDoF_runwise.pdf, id=4688, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2perDoF_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on input line 173.
+Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on input line 337.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [56
 
@@ -1619,7 +1619,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on in
 <./RunwisePlots/Track_nLayers_runwise.pdf, id=4739, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nLayers_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nLayers_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_nLayers_runwise.pdf  used on input line 177.
+Package pdftex.def Info: ./RunwisePlots/Track_nLayers_runwise.pdf  used on input line 341.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [57
 
@@ -2358,15 +2358,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EE54681169351544D5D7E892FC8F738D;73.
  ) 
 Here is how much of TeX's memory you used:
- 29514 strings out of 476034
- 629649 string characters out of 5792865
+ 29523 strings out of 476034
+ 629787 string characters out of 5792865
  1868388 words of memory out of 6000000
- 48962 multiletter control sequences out of 15000+600000
+ 48971 multiletter control sequences out of 15000+600000
  529578 words of font info for 94 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  128i,15n,122p,469b,713s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on build/main.pdf (99 pages, 4564330 bytes).
+Output written on build/main.pdf (99 pages, 4567453 bytes).
 PDF statistics:
  9769 PDF objects out of 10688 (max. 8388607)
  4141 compressed objects within 42 object streams
