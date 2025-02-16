@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  16 FEB 2025 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  16 FEB 2025 23:47
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1423,95 +1423,157 @@ Overfull \hbox (4.55623pt too wide) detected at line 484
 
 [36
 
- <./ModuleLevelPlots/Track_nLayers_st0_2023.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_nLayers_st0_2024.pdf, page is rotated 90 degrees>] [37
+ <./ModuleLevelPlots/Track_nLayers_st0_2023.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_nLayers_st0_2024.pdf, page is rotated 90 degrees>]
+<./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf, id=3617, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf  used on input line 503.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf, id=3618, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf  used on input line 503.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf, id=3619, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf  used on input line 503.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf, id=3620, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf  used on input line 503.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+ [37
 
-]) (./chapters/chapter2.tex [38
+ <./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf, page is rotated 90 degrees>]
+<./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf, id=3801, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf  used on input line 522.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf, id=3802, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf  used on input line 522.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf, id=3803, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf  used on input line 522.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+<./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf, id=3804, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf  used on input line 522.
+(pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
+ [38
+
+ <./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf, page is rotated 90 degrees>]
+<./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf, id=3984, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf  used on input line 548.
+(pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
+<./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf, id=3985, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf  used on input line 548.
+(pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
+
+Overfull \hbox (4.55623pt too wide) detected at line 548
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+[39
+
+ <./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf, page is rotated 90 degrees>]) (./chapters/chapter2.tex [40
 
 ]
-<./assets/BCIDEfficiency_p0011.pdf, id=3633, 1445.4pt x 361.35pt>
+<./assets/BCIDEfficiency_p0011.pdf, id=4087, 1445.4pt x 361.35pt>
 File: ./assets/BCIDEfficiency_p0011.pdf Graphic file (type pdf)
 <use ./assets/BCIDEfficiency_p0011.pdf>
 Package pdftex.def Info: ./assets/BCIDEfficiency_p0011.pdf  used on input line 38.
 (pdftex.def)             Requested size: 307.28987pt x 76.82307pt.
- [39
+ [41
 
  <./assets/BCIDEfficiency_p0011.pdf>]
-<RunwisePlots/F241-2024_NEventsbyLumi.pdf, id=3680, 1156.32pt x 433.62pt>
+<RunwisePlots/F241-2024_NEventsbyLumi.pdf, id=4134, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NEventsbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F241-2024_NEventsbyLumi.pdf  used on input line 61.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
-<RunwisePlots/F241-2024_NTracksbyLumi.pdf, id=3681, 1156.32pt x 433.62pt>
+<RunwisePlots/F241-2024_NTracksbyLumi.pdf, id=4135, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NTracksbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input line 61.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
- [40
+ [42
 
  <./RunwisePlots/F241-2024_NEventsbyLumi.pdf> <./RunwisePlots/F241-2024_NTracksbyLumi.pdf>]
-<RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf, id=3768, 1156.32pt x 433.62pt>
+<RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf, id=4222, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf  used on input line 90.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
-<RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf, id=3769, 1156.32pt x 433.62pt>
+<RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf, id=4223, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on input line 90.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
- [41
+ [43
 
  <./RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf> <./RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf>]
-<RunwisePlots/F242-2024_NEventsbyLumi.pdf, id=3859, 1156.32pt x 433.62pt>
+<RunwisePlots/F242-2024_NEventsbyLumi.pdf, id=4313, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NEventsbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F242-2024_NEventsbyLumi.pdf  used on input line 121.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
-<RunwisePlots/F242-2024_NTracksbyLumi.pdf, id=3860, 1156.32pt x 433.62pt>
+<RunwisePlots/F242-2024_NTracksbyLumi.pdf, id=4314, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NTracksbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input line 121.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
- [42
+ [44
 
  <./RunwisePlots/F242-2024_NEventsbyLumi.pdf> <./RunwisePlots/F242-2024_NTracksbyLumi.pdf>]
-<RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf, id=3947, 1156.32pt x 433.62pt>
+<RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf, id=4402, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf  used on input line 165.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
-<RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf, id=3948, 1156.32pt x 433.62pt>
+<RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf, id=4403, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on input line 165.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
- [43
+ [45
 
  <./RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf> <./RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf>]
-<RunwisePlots/F243-2024_NEventsbyLumi.pdf, id=4039, 1156.32pt x 433.62pt>
+<RunwisePlots/F243-2024_NEventsbyLumi.pdf, id=4493, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NEventsbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F243-2024_NEventsbyLumi.pdf  used on input line 200.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
-<RunwisePlots/F243-2024_NTracksbyLumi.pdf, id=4040, 1156.32pt x 433.62pt>
+<RunwisePlots/F243-2024_NTracksbyLumi.pdf, id=4494, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NTracksbyLumi.pdf>
 Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input line 200.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
- [44
+ [46
 
  <./RunwisePlots/F243-2024_NEventsbyLumi.pdf> <./RunwisePlots/F243-2024_NTracksbyLumi.pdf>]
-<./RunwisePlots/MedianYieldsPhase.pdf, id=4127, 1445.4pt x 867.24pt>
+<./RunwisePlots/MedianYieldsPhase.pdf, id=4581, 1445.4pt x 867.24pt>
 File: ./RunwisePlots/MedianYieldsPhase.pdf Graphic file (type pdf)
 <use ./RunwisePlots/MedianYieldsPhase.pdf>
 Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input line 257.
 (pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
- [45
+ [47
 
- <./RunwisePlots/MedianYieldsPhase.pdf>] [46
+ <./RunwisePlots/MedianYieldsPhase.pdf>] [48
 
 ]
-<./RunwisePlots/Track_x0_runwise.pdf, id=4190, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_x0_runwise.pdf, id=4644, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_x0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_x0_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line 271.
@@ -1520,10 +1582,10 @@ Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line
 Overfull \vbox (2.64003pt too high) detected at line 271
  []
 
-[47
+[49
 
  <./RunwisePlots/Track_x0_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_y0_runwise.pdf, id=4240, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_y0_runwise.pdf, id=4695, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_y0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_y0_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line 276.
@@ -1532,10 +1594,10 @@ Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line
 Overfull \vbox (2.64003pt too high) detected at line 276
  []
 
-[48
+[50
 
  <./RunwisePlots/Track_y0_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_ThetaX_0_runwise.pdf, id=4291, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_ThetaX_0_runwise.pdf, id=4746, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaX_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaX_0_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on input line 282.
@@ -1544,10 +1606,10 @@ Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on inpu
 Overfull \vbox (2.64003pt too high) detected at line 282
  []
 
-[49
+[51
 
  <./RunwisePlots/Track_ThetaX_0_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_ThetaY_0_runwise.pdf, id=4342, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_ThetaY_0_runwise.pdf, id=4796, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaY_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaY_0_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on input line 287.
@@ -1556,10 +1618,10 @@ Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on inpu
 Overfull \vbox (2.64003pt too high) detected at line 287
  []
 
-[50
+[52
 
  <./RunwisePlots/Track_ThetaY_0_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_p0_runwise.pdf, id=4392, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_p0_runwise.pdf, id=4846, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_p0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_p0_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line 293.
@@ -1568,101 +1630,101 @@ Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line
 Overfull \vbox (2.64003pt too high) detected at line 293
  []
 
-[51
+[53
 
  <./RunwisePlots/Track_p0_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/longTracks_runwise.pdf, id=4442, 569.12625pt x 408.52625pt>
+<./RunwisePlots/longTracks_runwise.pdf, id=4896, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/longTracks_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/longTracks_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/longTracks_runwise.pdf  used on input line 321.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<RunwisePlots/longTracks_normalisedfrom2_runwise.pdf, id=4443, 569.12625pt x 408.52625pt>
+<RunwisePlots/longTracks_normalisedfrom2_runwise.pdf, id=4897, 569.12625pt x 408.52625pt>
 File: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf Graphic file (type pdf)
 <use RunwisePlots/longTracks_normalisedfrom2_runwise.pdf>
 Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  used on input line 321.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [52
+ [54
 
  <./RunwisePlots/longTracks_runwise.pdf, page is rotated 90 degrees> <./RunwisePlots/longTracks_normalisedfrom2_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_charge_runwise.pdf, id=4537, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_charge_runwise.pdf, id=4991, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_charge_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_charge_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input line 325.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
- [53
+ [55
 
  <./RunwisePlots/Track_charge_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_Chi2_runwise.pdf, id=4587, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_Chi2_runwise.pdf, id=5042, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input line 329.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
- [54
+ [56
 
  <./RunwisePlots/Track_Chi2_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_nDoF_runwise.pdf, id=4637, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_nDoF_runwise.pdf, id=5092, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nDoF_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input line 333.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
- [55
+ [57
 
  <./RunwisePlots/Track_nDoF_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_Chi2perDoF_runwise.pdf, id=4688, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_Chi2perDoF_runwise.pdf, id=5142, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2perDoF_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on input line 337.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
- [56
+ [58
 
  <./RunwisePlots/Track_Chi2perDoF_runwise.pdf, page is rotated 90 degrees>]
-<./RunwisePlots/Track_nLayers_runwise.pdf, id=4739, 569.12625pt x 408.52625pt>
+<./RunwisePlots/Track_nLayers_runwise.pdf, id=5193, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nLayers_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nLayers_runwise.pdf>
 Package pdftex.def Info: ./RunwisePlots/Track_nLayers_runwise.pdf  used on input line 341.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
- [57
+ [59
 
- <./RunwisePlots/Track_nLayers_runwise.pdf, page is rotated 90 degrees>]) (./chapters/chapter3.tex [58
+ <./RunwisePlots/Track_nLayers_runwise.pdf, page is rotated 90 degrees>]) (./chapters/chapter3.tex [60
 
 ]
-<ColumnPlots/Track_Chi2_ratio.pdf, id=4795, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_Chi2_ratio.pdf, id=5249, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_Chi2_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_Chi2_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_Chi2_ratio.pdf  used on input line 144.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [59
+ [61
 
  <./ColumnPlots/Track_Chi2_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2_bin0.pdf, id=4847, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin0.pdf, id=5302, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin0.pdf  used on input line 144.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_Chi2_bin10.pdf, id=4848, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin10.pdf, id=5303, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin10.pdf  used on input line 144.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [60
+ [62
 
  <./BinnedPlots/Track_Chi2_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2_bin1.pdf, id=4943, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin1.pdf, id=5397, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin1.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin3.pdf, id=4944, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin3.pdf, id=5398, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin3.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin2.pdf, id=4945, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin2.pdf, id=5399, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin2.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin4.pdf, id=4946, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin4.pdf, id=5400, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin4.pdf  used on input line 144.
@@ -1671,25 +1733,25 @@ Package pdftex.def Info: BinnedPlots/Track_Chi2_bin4.pdf  used on input line 144
 Overfull \vbox (11.4365pt too high) detected at line 144
  []
 
-[61
+[63
 
  <./BinnedPlots/Track_Chi2_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2_bin5.pdf, id=5126, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin5.pdf, id=5580, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin5.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin7.pdf, id=5127, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin7.pdf, id=5581, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin7.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin6.pdf, id=5128, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin6.pdf, id=5582, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin6.pdf  used on input line 144.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2_bin8.pdf, id=5129, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_bin8.pdf, id=5583, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_bin8.pdf  used on input line 144.
@@ -1698,59 +1760,59 @@ Package pdftex.def Info: BinnedPlots/Track_Chi2_bin8.pdf  used on input line 144
 Overfull \vbox (11.4365pt too high) detected at line 144
  []
 
-[62
+[64
 
  <./BinnedPlots/Track_Chi2_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2_binned_2023.pdf, id=5309, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_binned_2023.pdf, id=5763, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_binned_2023.pdf  used on input line 144.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_Chi2_binned_2024.pdf, id=5310, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2_binned_2024.pdf, id=5764, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2_binned_2024.pdf  used on input line 144.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [63
+ [65
 
  <./BinnedPlots/Track_Chi2_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_nDoF_ratio.pdf, id=5404, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_nDoF_ratio.pdf, id=5857, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_nDoF_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_nDoF_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_nDoF_ratio.pdf  used on input line 155.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [64
+ [66
 
  <./ColumnPlots/Track_nDoF_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nDoF_bin0.pdf, id=5454, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin0.pdf, id=5908, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin0.pdf  used on input line 155.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_nDoF_bin10.pdf, id=5455, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin10.pdf, id=5909, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin10.pdf  used on input line 155.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [65
+ [67
 
  <./BinnedPlots/Track_nDoF_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nDoF_bin1.pdf, id=5548, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin1.pdf, id=6003, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin1.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin3.pdf, id=5549, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin3.pdf, id=6004, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin3.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin2.pdf, id=5550, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin2.pdf, id=6005, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin2.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin4.pdf, id=5551, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin4.pdf, id=6006, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin4.pdf  used on input line 155.
@@ -1759,25 +1821,25 @@ Package pdftex.def Info: BinnedPlots/Track_nDoF_bin4.pdf  used on input line 155
 Overfull \vbox (9.63834pt too high) detected at line 155
  []
 
-[66
+[68
 
  <./BinnedPlots/Track_nDoF_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nDoF_bin5.pdf, id=5731, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin5.pdf, id=6186, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin5.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin7.pdf, id=5732, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin7.pdf, id=6187, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin7.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin6.pdf, id=5733, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin6.pdf, id=6188, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin6.pdf  used on input line 155.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nDoF_bin8.pdf, id=5734, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_bin8.pdf, id=6189, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_bin8.pdf  used on input line 155.
@@ -1786,23 +1848,23 @@ Package pdftex.def Info: BinnedPlots/Track_nDoF_bin8.pdf  used on input line 155
 Overfull \vbox (9.63834pt too high) detected at line 155
  []
 
-[67
+[69
 
  <./BinnedPlots/Track_nDoF_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nDoF_binned_2023.pdf, id=5915, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_binned_2023.pdf, id=6369, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_binned_2023.pdf  used on input line 155.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_nDoF_binned_2024.pdf, id=5916, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nDoF_binned_2024.pdf, id=6370, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nDoF_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nDoF_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nDoF_binned_2024.pdf  used on input line 155.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [68
+ [70
 
  <./BinnedPlots/Track_nDoF_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nDoF_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_Chi2perDoF_ratio.pdf, id=6009, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_Chi2perDoF_ratio.pdf, id=6463, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_Chi2perDoF_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_Chi2perDoF_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_Chi2perDoF_ratio.pdf  used on input line 165.
@@ -1811,38 +1873,38 @@ Package pdftex.def Info: ColumnPlots/Track_Chi2perDoF_ratio.pdf  used on input l
 Overfull \vbox (1.6406pt too high) detected at line 165
  []
 
-[69
+[71
 
  <./ColumnPlots/Track_Chi2perDoF_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2perDoF_bin0.pdf, id=6059, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin0.pdf, id=6513, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin0.pdf  used on input line 165.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_Chi2perDoF_bin10.pdf, id=6060, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin10.pdf, id=6514, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin10.pdf  used on input line 165.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [70
+ [72
 
  <./BinnedPlots/Track_Chi2perDoF_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2perDoF_bin1.pdf, id=6154, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin1.pdf, id=6608, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin1.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin3.pdf, id=6155, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin3.pdf, id=6609, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin3.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin2.pdf, id=6156, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin2.pdf, id=6610, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin2.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin4.pdf, id=6157, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin4.pdf, id=6611, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin4.pdf  used on input line 165.
@@ -1851,25 +1913,25 @@ Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin4.pdf  used on input li
 Overfull \vbox (11.4365pt too high) detected at line 165
  []
 
-[71
+[73
 
  <./BinnedPlots/Track_Chi2perDoF_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2perDoF_bin5.pdf, id=6337, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin5.pdf, id=6791, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin5.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin7.pdf, id=6338, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin7.pdf, id=6792, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin7.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin6.pdf, id=6339, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin6.pdf, id=6793, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin6.pdf  used on input line 165.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_Chi2perDoF_bin8.pdf, id=6340, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_bin8.pdf, id=6794, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin8.pdf  used on input line 165.
@@ -1878,59 +1940,59 @@ Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_bin8.pdf  used on input li
 Overfull \vbox (11.4365pt too high) detected at line 165
  []
 
-[72
+[74
 
  <./BinnedPlots/Track_Chi2perDoF_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_Chi2perDoF_binned_2023.pdf, id=6519, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_binned_2023.pdf, id=6974, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_binned_2023.pdf  used on input line 165.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_Chi2perDoF_binned_2024.pdf, id=6520, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_Chi2perDoF_binned_2024.pdf, id=6975, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_Chi2perDoF_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_Chi2perDoF_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_Chi2perDoF_binned_2024.pdf  used on input line 165.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [73
+ [75
 
  <./BinnedPlots/Track_Chi2perDoF_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_Chi2perDoF_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_charge_ratio.pdf, id=6615, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_charge_ratio.pdf, id=7069, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_charge_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_charge_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_charge_ratio.pdf  used on input line 176.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [74
+ [76
 
  <./ColumnPlots/Track_charge_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_charge_bin0.pdf, id=6665, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin0.pdf, id=7119, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin0.pdf  used on input line 176.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_charge_bin10.pdf, id=6666, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin10.pdf, id=7120, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin10.pdf  used on input line 176.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [75
+ [77
 
  <./BinnedPlots/Track_charge_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_charge_bin1.pdf, id=6759, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin1.pdf, id=7213, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin1.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin3.pdf, id=6760, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin3.pdf, id=7214, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin3.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin2.pdf, id=6761, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin2.pdf, id=7215, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin2.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin4.pdf, id=6762, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin4.pdf, id=7216, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin4.pdf  used on input line 176.
@@ -1939,25 +2001,25 @@ Package pdftex.def Info: BinnedPlots/Track_charge_bin4.pdf  used on input line 1
 Overfull \vbox (9.63834pt too high) detected at line 176
  []
 
-[76
+[78
 
  <./BinnedPlots/Track_charge_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_charge_bin5.pdf, id=6942, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin5.pdf, id=7396, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin5.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin7.pdf, id=6943, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin7.pdf, id=7397, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin7.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin6.pdf, id=6944, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin6.pdf, id=7398, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin6.pdf  used on input line 176.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_charge_bin8.pdf, id=6945, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_bin8.pdf, id=7399, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_bin8.pdf  used on input line 176.
@@ -1966,59 +2028,59 @@ Package pdftex.def Info: BinnedPlots/Track_charge_bin8.pdf  used on input line 1
 Overfull \vbox (9.63834pt too high) detected at line 176
  []
 
-[77
+[79
 
  <./BinnedPlots/Track_charge_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_charge_binned_2023.pdf, id=7125, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_binned_2023.pdf, id=7580, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_binned_2023.pdf  used on input line 176.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_charge_binned_2024.pdf, id=7126, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_charge_binned_2024.pdf, id=7581, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_charge_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_charge_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_charge_binned_2024.pdf  used on input line 176.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [78
+ [80
 
  <./BinnedPlots/Track_charge_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_charge_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/longTracks_ratio.pdf, id=7219, 569.12625pt x 408.52625pt>
+<ColumnPlots/longTracks_ratio.pdf, id=7674, 569.12625pt x 408.52625pt>
 File: ColumnPlots/longTracks_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/longTracks_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/longTracks_ratio.pdf  used on input line 181.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [79
+ [81
 
  <./ColumnPlots/longTracks_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/longTracks_bin0.pdf, id=7271, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin0.pdf, id=7724, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin0.pdf  used on input line 181.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/longTracks_bin10.pdf, id=7272, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin10.pdf, id=7725, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin10.pdf  used on input line 181.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [80
+ [82
 
  <./BinnedPlots/longTracks_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/longTracks_bin1.pdf, id=7365, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin1.pdf, id=7819, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin1.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin3.pdf, id=7366, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin3.pdf, id=7820, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin3.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin2.pdf, id=7367, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin2.pdf, id=7821, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin2.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin4.pdf, id=7368, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin4.pdf, id=7822, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin4.pdf  used on input line 181.
@@ -2027,25 +2089,25 @@ Package pdftex.def Info: BinnedPlots/longTracks_bin4.pdf  used on input line 181
 Overfull \vbox (9.63834pt too high) detected at line 181
  []
 
-[81
+[83
 
  <./BinnedPlots/longTracks_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/longTracks_bin5.pdf, id=7548, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin5.pdf, id=8002, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin5.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin7.pdf, id=7549, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin7.pdf, id=8003, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin7.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin6.pdf, id=7550, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin6.pdf, id=8004, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin6.pdf  used on input line 181.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/longTracks_bin8.pdf, id=7551, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_bin8.pdf, id=8005, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_bin8.pdf  used on input line 181.
@@ -2054,59 +2116,59 @@ Package pdftex.def Info: BinnedPlots/longTracks_bin8.pdf  used on input line 181
 Overfull \vbox (9.63834pt too high) detected at line 181
  []
 
-[82
+[84
 
  <./BinnedPlots/longTracks_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/longTracks_binned_2023.pdf, id=7730, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_binned_2023.pdf, id=8184, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_binned_2023.pdf  used on input line 181.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/longTracks_binned_2024.pdf, id=7731, 569.12625pt x 408.52625pt>
+<BinnedPlots/longTracks_binned_2024.pdf, id=8185, 569.12625pt x 408.52625pt>
 File: BinnedPlots/longTracks_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/longTracks_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/longTracks_binned_2024.pdf  used on input line 181.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [83
+ [85
 
  <./BinnedPlots/longTracks_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/longTracks_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_nLayers_ratio.pdf, id=7825, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_nLayers_ratio.pdf, id=8280, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_nLayers_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_nLayers_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_nLayers_ratio.pdf  used on input line 190.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [84
+ [86
 
  <./ColumnPlots/Track_nLayers_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nLayers_bin0.pdf, id=7875, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin0.pdf, id=8330, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin0.pdf  used on input line 190.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_nLayers_bin10.pdf, id=7876, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin10.pdf, id=8331, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin10.pdf  used on input line 190.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [85
+ [87
 
  <./BinnedPlots/Track_nLayers_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nLayers_bin1.pdf, id=7971, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin1.pdf, id=8424, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin1.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin3.pdf, id=7972, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin3.pdf, id=8425, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin3.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin2.pdf, id=7973, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin2.pdf, id=8426, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin2.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin4.pdf, id=7974, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin4.pdf, id=8427, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin4.pdf  used on input line 190.
@@ -2115,25 +2177,25 @@ Package pdftex.def Info: BinnedPlots/Track_nLayers_bin4.pdf  used on input line 
 Overfull \vbox (9.63834pt too high) detected at line 190
  []
 
-[86
+[88
 
  <./BinnedPlots/Track_nLayers_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nLayers_bin5.pdf, id=8153, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin5.pdf, id=8607, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin5.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin7.pdf, id=8154, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin7.pdf, id=8608, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin7.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin6.pdf, id=8155, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin6.pdf, id=8609, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin6.pdf  used on input line 190.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_nLayers_bin8.pdf, id=8156, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_bin8.pdf, id=8610, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_bin8.pdf  used on input line 190.
@@ -2142,59 +2204,59 @@ Package pdftex.def Info: BinnedPlots/Track_nLayers_bin8.pdf  used on input line 
 Overfull \vbox (9.63834pt too high) detected at line 190
  []
 
-[87
+[89
 
  <./BinnedPlots/Track_nLayers_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_nLayers_binned_2023.pdf, id=8336, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_binned_2023.pdf, id=8790, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_binned_2023.pdf  used on input line 190.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_nLayers_binned_2024.pdf, id=8337, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_nLayers_binned_2024.pdf, id=8791, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_nLayers_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_nLayers_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_nLayers_binned_2024.pdf  used on input line 190.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [88
+ [90
 
  <./BinnedPlots/Track_nLayers_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_nLayers_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_ThetaX_0_ratio.pdf, id=8430, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_ThetaX_0_ratio.pdf, id=8884, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_ThetaX_0_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_ThetaX_0_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_ThetaX_0_ratio.pdf  used on input line 200.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [89
+ [91
 
  <./ColumnPlots/Track_ThetaX_0_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaX_0_bin0.pdf, id=8483, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin0.pdf, id=8938, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin0.pdf  used on input line 200.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_ThetaX_0_bin10.pdf, id=8484, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin10.pdf, id=8939, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin10.pdf  used on input line 200.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [90
+ [92
 
  <./BinnedPlots/Track_ThetaX_0_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaX_0_bin1.pdf, id=8577, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin1.pdf, id=9032, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin1.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin3.pdf, id=8578, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin3.pdf, id=9033, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin3.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin2.pdf, id=8579, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin2.pdf, id=9034, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin2.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin4.pdf, id=8580, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin4.pdf, id=9035, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin4.pdf  used on input line 200.
@@ -2203,25 +2265,25 @@ Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin4.pdf  used on input line
 Overfull \vbox (9.63834pt too high) detected at line 200
  []
 
-[91
+[93
 
  <./BinnedPlots/Track_ThetaX_0_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaX_0_bin5.pdf, id=8761, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin5.pdf, id=9215, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin5.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin7.pdf, id=8762, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin7.pdf, id=9216, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin7.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin6.pdf, id=8763, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin6.pdf, id=9217, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin6.pdf  used on input line 200.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaX_0_bin8.pdf, id=8764, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_bin8.pdf, id=9218, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin8.pdf  used on input line 200.
@@ -2230,59 +2292,59 @@ Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_bin8.pdf  used on input line
 Overfull \vbox (9.63834pt too high) detected at line 200
  []
 
-[92
+[94
 
  <./BinnedPlots/Track_ThetaX_0_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaX_0_binned_2023.pdf, id=8944, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_binned_2023.pdf, id=9398, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_binned_2023.pdf  used on input line 200.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_ThetaX_0_binned_2024.pdf, id=8945, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaX_0_binned_2024.pdf, id=9399, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaX_0_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaX_0_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaX_0_binned_2024.pdf  used on input line 200.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [93
+ [95
 
  <./BinnedPlots/Track_ThetaX_0_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaX_0_binned_2024.pdf, page is rotated 90 degrees>]
-<ColumnPlots/Track_ThetaY_0_ratio.pdf, id=9038, 569.12625pt x 408.52625pt>
+<ColumnPlots/Track_ThetaY_0_ratio.pdf, id=9492, 569.12625pt x 408.52625pt>
 File: ColumnPlots/Track_ThetaY_0_ratio.pdf Graphic file (type pdf)
 <use ColumnPlots/Track_ThetaY_0_ratio.pdf>
 Package pdftex.def Info: ColumnPlots/Track_ThetaY_0_ratio.pdf  used on input line 201.
 (pdftex.def)             Requested size: 245.83282pt x 176.46075pt.
- [94
+ [96
 
  <./ColumnPlots/Track_ThetaY_0_ratio.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaY_0_bin0.pdf, id=9088, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin0.pdf, id=9542, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin0.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin0.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin0.pdf  used on input line 201.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_ThetaY_0_bin10.pdf, id=9089, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin10.pdf, id=9543, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin10.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin10.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin10.pdf  used on input line 201.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [95
+ [97
 
  <./BinnedPlots/Track_ThetaY_0_bin0.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin10.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaY_0_bin1.pdf, id=9183, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin1.pdf, id=9638, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin1.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin1.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin1.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin3.pdf, id=9184, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin3.pdf, id=9639, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin3.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin3.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin3.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin2.pdf, id=9185, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin2.pdf, id=9640, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin2.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin2.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin2.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin4.pdf, id=9186, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin4.pdf, id=9641, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin4.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin4.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin4.pdf  used on input line 201.
@@ -2291,25 +2353,25 @@ Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin4.pdf  used on input line
 Overfull \vbox (9.63834pt too high) detected at line 201
  []
 
-[96
+[98
 
  <./BinnedPlots/Track_ThetaY_0_bin1.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin3.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin2.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin4.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaY_0_bin5.pdf, id=9365, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin5.pdf, id=9820, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin5.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin5.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin5.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin7.pdf, id=9366, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin7.pdf, id=9821, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin7.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin7.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin7.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin6.pdf, id=9367, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin6.pdf, id=9822, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin6.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin6.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin6.pdf  used on input line 201.
 (pdftex.def)             Requested size: 127.52556pt x 91.54042pt.
-<BinnedPlots/Track_ThetaY_0_bin8.pdf, id=9368, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_bin8.pdf, id=9823, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_bin8.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_bin8.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin8.pdf  used on input line 201.
@@ -2318,22 +2380,22 @@ Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_bin8.pdf  used on input line
 Overfull \vbox (9.63834pt too high) detected at line 201
  []
 
-[97
+[99
 
  <./BinnedPlots/Track_ThetaY_0_bin5.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin7.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin6.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_bin8.pdf, page is rotated 90 degrees>]
-<BinnedPlots/Track_ThetaY_0_binned_2023.pdf, id=9549, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_binned_2023.pdf, id=10003, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_binned_2023.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_binned_2023.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_binned_2023.pdf  used on input line 201.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
-<BinnedPlots/Track_ThetaY_0_binned_2024.pdf, id=9550, 569.12625pt x 408.52625pt>
+<BinnedPlots/Track_ThetaY_0_binned_2024.pdf, id=10004, 569.12625pt x 408.52625pt>
 File: BinnedPlots/Track_ThetaY_0_binned_2024.pdf Graphic file (type pdf)
 <use BinnedPlots/Track_ThetaY_0_binned_2024.pdf>
 Package pdftex.def Info: BinnedPlots/Track_ThetaY_0_binned_2024.pdf  used on input line 201.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
- [98
+ [100
 
- <./BinnedPlots/Track_ThetaY_0_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_binned_2024.pdf, page is rotated 90 degrees>]) [99
+ <./BinnedPlots/Track_ThetaY_0_binned_2023.pdf, page is rotated 90 degrees> <./BinnedPlots/Track_ThetaY_0_binned_2024.pdf, page is rotated 90 degrees>]) [101
 
 ]
 
@@ -2358,18 +2420,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EE54681169351544D5D7E892FC8F738D;73.
  ) 
 Here is how much of TeX's memory you used:
- 29523 strings out of 476034
- 629787 string characters out of 5792865
+ 29601 strings out of 476034
+ 633683 string characters out of 5792865
  1868388 words of memory out of 6000000
- 48971 multiletter control sequences out of 15000+600000
+ 49035 multiletter control sequences out of 15000+600000
  529578 words of font info for 94 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  128i,15n,122p,469b,713s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on build/main.pdf (99 pages, 4567453 bytes).
+Output written on build/main.pdf (101 pages, 11612921 bytes).
 PDF statistics:
- 9769 PDF objects out of 10688 (max. 8388607)
- 4141 compressed objects within 42 object streams
- 200 named destinations out of 1000 (max. 500000)
- 1086 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 10223 PDF objects out of 10688 (max. 8388607)
+ 4331 compressed objects within 44 object streams
+ 204 named destinations out of 1000 (max. 500000)
+ 1136 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -195,21 +195,25 @@
 \headcommand {\beamer@framepages {97}{97}}
 \headcommand {\slideentry {0}{0}{98}{98/98}{}{0}}
 \headcommand {\beamer@framepages {98}{98}}
-\headcommand {\beamer@sectionpages {1}{98}}
-\headcommand {\beamer@subsectionpages {1}{98}}
-\headcommand {\sectionentry {1}{Backup}{99}{Backup}{0}}
-\headcommand {\slideentry {1}{0}{1}{99/99}{}{0}}
+\headcommand {\slideentry {0}{0}{99}{99/99}{}{0}}
 \headcommand {\beamer@framepages {99}{99}}
-\headcommand {\gdef \insertmainframenumber {99}}
-\headcommand {\bsf@partpages {100}{99}{100}{99}}
-\headcommand {\bsf@sectionpages {100}{99}{99}{99}}
-\headcommand {\bsf@subsectionpages {100}{99}{1}{99}}
-\headcommand {\bsf@documentpages {99}}
+\headcommand {\slideentry {0}{0}{100}{100/100}{}{0}}
+\headcommand {\beamer@framepages {100}{100}}
+\headcommand {\beamer@sectionpages {1}{100}}
+\headcommand {\beamer@subsectionpages {1}{100}}
+\headcommand {\sectionentry {1}{Backup}{101}{Backup}{0}}
+\headcommand {\slideentry {1}{0}{1}{101/101}{}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\gdef \insertmainframenumber {101}}
+\headcommand {\bsf@partpages {102}{101}{102}{101}}
+\headcommand {\bsf@sectionpages {102}{101}{101}{101}}
+\headcommand {\bsf@subsectionpages {102}{101}{1}{101}}
+\headcommand {\bsf@documentpages {101}}
 \headcommand {\bsf@disablenaventries }
-\headcommand {\beamer@partpages {100}{99}}
-\headcommand {\beamer@subsectionpages {100}{99}}
-\headcommand {\beamer@sectionpages {100}{99}}
-\headcommand {\beamer@documentpages {99}}
-\headcommand {\gdef \inserttotalframenumber {99}}
-\headcommand {\def \inserttotalframenumber {99}}
-\headcommand {\def \inserttotalframenumberwithsub {99}}
+\headcommand {\beamer@partpages {102}{101}}
+\headcommand {\beamer@subsectionpages {102}{101}}
+\headcommand {\beamer@sectionpages {102}{101}}
+\headcommand {\beamer@documentpages {101}}
+\headcommand {\gdef \inserttotalframenumber {101}}
+\headcommand {\def \inserttotalframenumber {101}}
+\headcommand {\def \inserttotalframenumberwithsub {101}}
