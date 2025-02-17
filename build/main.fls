@@ -1563,12 +1563,12 @@ INPUT ./chapters/chapter1.tex
 INPUT chapters/chapter1.tex
 INPUT ./chapters/chapter1.tex
 INPUT chapters/chapter1.tex
-INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
-INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
-INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
-INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
-INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
+INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
+INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
+INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
+INPUT ./ModuleLevelPlots/Positions_st0_truemodule0.pdf
 INPUT ./assets/image.png
 INPUT ./assets/image.png
 INPUT ./assets/image.png

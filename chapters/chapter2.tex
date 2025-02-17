@@ -1,6 +1,6 @@
 \begin{frame}{Recap of 2024 Runs Splits}
     \begin{itemize}
-        \item Due to the higher backgrounds FaserNu had to be replaced every 10 fb$^-1$.
+        \item In 2024, FaserNu had to be replaced every 10 fb$^{-1}$.
         \item The replacement schedule was as follows
     \end{itemize}
     \begin{table}[h!]
@@ -18,7 +18,11 @@
 	\vspace{-0.5cm}
     \begin{itemize}
         \item The runs are split into categories based on the above schedule
-        % \item Allowed a construction of Yield plots for each category, NEvents/Lumi (Top) and NTracks/Lumi (Bottom)
+        \item We can look at the Yield for each category, 
+		\begin{itemize}
+			\item NEvents/Lumi : Plot on Top
+			\item  NTracks/Lumi : Plot on Bottom
+		\end{itemize}
     \end{itemize}
     \scriptsize{Note: Detailed Calculation of Run Numbers can be found here [Link to Sheet]}
 \end{frame}
@@ -27,8 +31,8 @@
 	\begin{itemize}
 		\item Reminder that the 2024 data is split into as p0011 and p0012
 		\item The p0011 data has issues with the BCID makes the distanceToCollidingBCID unreliable
-		\item But unfortunately, p0011 data is more than 55\% of the 2024 data
-		\item Following plots apply the BCID cut only on the 2023 data and the p0012 data. 
+		\item But unfortunately, p0011 data is more than 55\% of the 2024 data thus cannot be ignored.
+		\item Following plots apply the BCID cut only on the 2023 data and the p0012 data, the first 55 runs do not pass the cut at all.
 	\end{itemize}
 	\begin{figure}
 		\includegraphics[width=\linewidth]{./assets/BCIDEfficiency_p0011.pdf}
@@ -292,7 +296,7 @@
 	\end{figure}
 \end{frame}
 
-\begin{frame}{longTracks across 2024 runs}
+\begin{frame}{Distribution of longTracks across 2024 runs}
 	\begin{columns}
 		\begin{column}{0.55 \linewidth}
 			\begin{figure}
@@ -309,6 +313,7 @@
 	\end{columns}
 	\begin{itemize}
 		\item F241 seems to show a higher number of 0-longTrack events.
+		\item Most likely from the lack of BCID cut for the early runs (less bunches) in F241.
 	\end{itemize}
 	% \begin{figure}
 	% 	\begin{subfigure}{0.45\linewidth}

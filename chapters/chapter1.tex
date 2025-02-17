@@ -20,40 +20,7 @@
     \end{itemize}
 \end{frame}
 
-% \section{Defining the Modules}
-
-\begin{frame}{Module Level Splitting}
-    \begin{columns}
-        \begin{column}{1.2\linewidth}
-            \begin{figure}
-                \centering
-                \includegraphics[height=0.8\textheight]{./ModuleLevelPlots/Positions_st0_truemodule0.pdf}
-                \caption{500 Points at Station-1 colored according to modules}
-            \end{figure}
-        \end{column}
-        \begin{column}{0.2\linewidth}
-            \begin{figure}
-                \hspace{-7cm}\includegraphics[scale=0.25]{./assets/image.png}
-            \end{figure}
-        \end{column}
-    \end{columns}
-\end{frame}
-
-\begin{frame}{Where are the Module Boundaries?}
-    \begin{figure}
-        \includegraphics[width=\linewidth]{./ModuleLevelPlots/Track_x0_eta0.pdf}
-        \caption{Track Positions at Station 1 colored by module\_eta0}
-    \end{figure}
-\end{frame}
-\begin{frame}{Where are the Module Boundaries?}
-    \begin{figure}
-        \includegraphics[width=\linewidth]{./ModuleLevelPlots/Track_y0_phi0.pdf}
-        \caption{Track Positions at Station 1 colored by module\_phi0}
-    \end{figure}
-\end{frame}
-
-
-\begin{frame}{Module Boundaries Schematic }
+\begin{frame}{Module Numbering Schematic }
     \begin{figure}
         \hspace{-1cm}
         \begin{tikzpicture}[scale=0.24]
@@ -107,6 +74,43 @@
     \end{figure}
 \end{frame}
 
+\begin{frame}{Module Level Splitting}
+    \begin{columns}
+        \begin{column}{1.2\linewidth}
+            \begin{figure}
+                \centering
+                \includegraphics[height=0.8\textheight]{./ModuleLevelPlots/Positions_st0_truemodule0.pdf}
+                \caption{500 Points at Station-1 colored according to module-variables in 2024 data}
+            \end{figure}
+        \end{column}
+        \begin{column}{0.2\linewidth}
+            \begin{figure}
+                \hspace{-7cm}\includegraphics[scale=0.25]{./assets/image.png}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{Where are the Module Boundaries?}
+    \begin{columns}
+        \begin{column}{0.5 \linewidth}
+            \begin{figure}
+                \includegraphics[width=\linewidth]{./ModuleLevelPlots/Track_x0_eta0.pdf}
+                \caption{Track Positions at Station 1 colored by module\_eta0}
+            \end{figure}
+        \end{column}
+        \begin{column}{0.5 \linewidth}
+            \begin{figure}
+                \includegraphics[width=\linewidth]{./ModuleLevelPlots/Track_y0_phi0.pdf}
+                \caption{Track Positions at Station 1 colored by module\_phi0}
+            \end{figure}
+        \end{column}
+     \end{columns}
+\end{frame}
+
+
+
+
 \begin{frame}{Accuracy of Module Splits}
     \begin{itemize}
         \item Since 2023 does not have the module\_eta0 / phi0 entries we approximate them using the above schematic.
@@ -128,7 +132,7 @@
             \begin{figure}
                 \centering
                 \includegraphics[height=0.8\textheight]{./ModuleLevelPlots/Positions_st0_module0.pdf}
-                \caption{500 Points at Station 1 colored by Module number at Station 1}
+                \caption{500 Points at Station 1 colored by Module number (estimated) at Station 1 for 2024 data}
             \end{figure}
         \end{column}
         \begin{column}{0.2\linewidth}
@@ -139,13 +143,13 @@
     \end{columns}
 \end{frame}
 
-\begin{frame}{Where do they end up in Station 2?}
+\begin{frame}{Where do they end up in Station 3?}
     \begin{columns}
         \begin{column}{1.2\linewidth}
             \begin{figure}
                 \centering
                 \includegraphics[height=0.8\textheight]{./ModuleLevelPlots/Positions_st1_module0.pdf}
-                \caption{500 Points at Station 3 colored by Module number at Station 1}
+                \caption{500 Points at Station 3 colored by Module number at Station 1 for 2024 data [Same tracks as previous slide]}
             \end{figure}
         \end{column}
         \begin{column}{0.2\linewidth}
@@ -418,7 +422,8 @@
 
     \begin{itemize}
         \small
-        \item Module 2 has higher nDoF in 2024
+        \item Module 2 has significantly higher nDoF in 2024
+        \item In 2024 more tracks have nDof $\geq 20$
         \item Track NDoF split into two groups
         \begin{itemize}
             \item Higher nDoF Modules : 2, 1, 8, 7 [Modules with y $\geq$ 0]

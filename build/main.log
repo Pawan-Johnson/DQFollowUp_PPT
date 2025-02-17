@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  16 FEB 2025 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  17 FEB 2025 10:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -854,65 +854,56 @@ Overfull \vbox (2.22583pt too high) detected at line 60
 
 ] [4
 
-]) (./chapters/chapter1.tex [5
+] [5
+
+]) (./chapters/chapter1.tex [6
 
 ]
-<./ModuleLevelPlots/Positions_st0_truemodule0.pdf, id=61, 569.12625pt x 736.7525pt>
-File: ./ModuleLevelPlots/Positions_st0_truemodule0.pdf Graphic file (type pdf)
-<use ./ModuleLevelPlots/Positions_st0_truemodule0.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Positions_st0_truemodule0.pdf  used on input line 40.
-(pdftex.def)             Requested size: 160.96951pt x 208.38478pt.
-<./assets/image.png, id=62, 255.95625pt x 250.9375pt>
-File: ./assets/image.png Graphic file (type png)
-<use ./assets/image.png>
-Package pdftex.def Info: ./assets/image.png  used on input line 40.
-(pdftex.def)             Requested size: 63.98889pt x 62.7342pt.
-
-Overfull \hbox (66.00858pt too wide) detected at line 40
-[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
- []
-
-
-Overfull \vbox (6.43639pt too high) detected at line 40
- []
-
-[6
-
- <./ModuleLevelPlots/Positions_st0_truemodule0.pdf> <./assets/image.png (PNG copy)>]
-<./ModuleLevelPlots/Track_x0_eta0.pdf, id=112, 569.12625pt x 408.52625pt>
-File: ./ModuleLevelPlots/Track_x0_eta0.pdf Graphic file (type pdf)
-<use ./ModuleLevelPlots/Track_x0_eta0.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_x0_eta0.pdf  used on input line 47.
-(pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
-
-Overfull \vbox (16.64003pt too high) detected at line 47
+Overfull \vbox (11.22713pt too high) detected at line 75
  []
 
 [7
 
- <./ModuleLevelPlots/Track_x0_eta0.pdf, page is rotated 90 degrees>]
-<./ModuleLevelPlots/Track_y0_phi0.pdf, id=163, 569.12625pt x 408.52625pt>
-File: ./ModuleLevelPlots/Track_y0_phi0.pdf Graphic file (type pdf)
-<use ./ModuleLevelPlots/Track_y0_phi0.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_y0_phi0.pdf  used on input line 53.
-(pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
+]
+<./ModuleLevelPlots/Positions_st0_truemodule0.pdf, id=75, 569.12625pt x 736.7525pt>
+File: ./ModuleLevelPlots/Positions_st0_truemodule0.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Positions_st0_truemodule0.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Positions_st0_truemodule0.pdf  used on input line 92.
+(pdftex.def)             Requested size: 160.96951pt x 208.38478pt.
+<./assets/image.png, id=76, 255.95625pt x 250.9375pt>
+File: ./assets/image.png Graphic file (type png)
+<use ./assets/image.png>
+Package pdftex.def Info: ./assets/image.png  used on input line 92.
+(pdftex.def)             Requested size: 63.98889pt x 62.7342pt.
 
-Overfull \vbox (16.64003pt too high) detected at line 53
+Overfull \hbox (66.00858pt too wide) detected at line 92
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+
+Overfull \vbox (6.43639pt too high) detected at line 92
  []
 
 [8
 
- <./ModuleLevelPlots/Track_y0_phi0.pdf, page is rotated 90 degrees>]
-Overfull \vbox (11.22713pt too high) detected at line 108
- []
+ <./ModuleLevelPlots/Positions_st0_truemodule0.pdf> <./assets/image.png (PNG copy)>]
+<./ModuleLevelPlots/Track_x0_eta0.pdf, id=126, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_x0_eta0.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_x0_eta0.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_x0_eta0.pdf  used on input line 109.
+(pdftex.def)             Requested size: 153.64493pt x 110.29109pt.
+<./ModuleLevelPlots/Track_y0_phi0.pdf, id=127, 569.12625pt x 408.52625pt>
+File: ./ModuleLevelPlots/Track_y0_phi0.pdf Graphic file (type pdf)
+<use ./ModuleLevelPlots/Track_y0_phi0.pdf>
+Package pdftex.def Info: ./ModuleLevelPlots/Track_y0_phi0.pdf  used on input line 109.
+(pdftex.def)             Requested size: 153.64493pt x 110.29109pt.
+ [9
 
-[9
-
-]
+ <./ModuleLevelPlots/Track_x0_eta0.pdf, page is rotated 90 degrees> <./ModuleLevelPlots/Track_y0_phi0.pdf, page is rotated 90 degrees>]
 <./assets/ModuleMismatch.png, id=221, 901.3675pt x 283.0575pt>
 File: ./assets/ModuleMismatch.png Graphic file (type png)
 <use ./assets/ModuleMismatch.png>
-Package pdftex.def Info: ./assets/ModuleMismatch.png  used on input line 123.
+Package pdftex.def Info: ./assets/ModuleMismatch.png  used on input line 127.
 (pdftex.def)             Requested size: 307.28987pt x 96.4974pt.
  [10
 
@@ -920,19 +911,19 @@ Package pdftex.def Info: ./assets/ModuleMismatch.png  used on input line 123.
 <./ModuleLevelPlots/Positions_st0_module0.pdf, id=230, 569.12625pt x 736.7525pt>
 File: ./ModuleLevelPlots/Positions_st0_module0.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Positions_st0_module0.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Positions_st0_module0.pdf  used on input line 140.
+Package pdftex.def Info: ./ModuleLevelPlots/Positions_st0_module0.pdf  used on input line 144.
 (pdftex.def)             Requested size: 160.96951pt x 208.38478pt.
 File: ./assets/image.png Graphic file (type png)
 <use ./assets/image.png>
-Package pdftex.def Info: ./assets/image.png  used on input line 140.
+Package pdftex.def Info: ./assets/image.png  used on input line 144.
 (pdftex.def)             Requested size: 63.98889pt x 62.7342pt.
 
-Overfull \hbox (66.00858pt too wide) detected at line 140
+Overfull \hbox (66.00858pt too wide) detected at line 144
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
 
-Overfull \vbox (6.43639pt too high) detected at line 140
+Overfull \vbox (6.43639pt too high) detected at line 144
  []
 
 [11
@@ -941,19 +932,19 @@ Overfull \vbox (6.43639pt too high) detected at line 140
 <./ModuleLevelPlots/Positions_st1_module0.pdf, id=280, 569.12625pt x 736.7525pt>
 File: ./ModuleLevelPlots/Positions_st1_module0.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Positions_st1_module0.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Positions_st1_module0.pdf  used on input line 157.
+Package pdftex.def Info: ./ModuleLevelPlots/Positions_st1_module0.pdf  used on input line 161.
 (pdftex.def)             Requested size: 160.96951pt x 208.38478pt.
 File: ./assets/image.png Graphic file (type png)
 <use ./assets/image.png>
-Package pdftex.def Info: ./assets/image.png  used on input line 157.
+Package pdftex.def Info: ./assets/image.png  used on input line 161.
 (pdftex.def)             Requested size: 63.98889pt x 62.7342pt.
 
-Overfull \hbox (66.00858pt too wide) detected at line 157
+Overfull \hbox (66.00858pt too wide) detected at line 161
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
 
-Overfull \vbox (6.43639pt too high) detected at line 157
+Overfull \vbox (6.43639pt too high) detected at line 161
  []
 
 [12
@@ -962,12 +953,12 @@ Overfull \vbox (6.43639pt too high) detected at line 157
 <./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2023.pdf, id=330, 569.12625pt x 385.44pt>
 File: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2023.pdf  used on input line 178.
+Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2023.pdf  used on input line 182.
 (pdftex.def)             Requested size: 235.07683pt x 159.20769pt.
 <./assets/ModuleThumbnail.png, id=331, 693.59125pt x 694.595pt>
 File: ./assets/ModuleThumbnail.png Graphic file (type png)
 <use ./assets/ModuleThumbnail.png>
-Package pdftex.def Info: ./assets/ModuleThumbnail.png  used on input line 178.
+Package pdftex.def Info: ./assets/ModuleThumbnail.png  used on input line 182.
 (pdftex.def)             Requested size: 61.45703pt x 61.53577pt.
  [13
 
@@ -975,7 +966,7 @@ Package pdftex.def Info: ./assets/ModuleThumbnail.png  used on input line 178.
 <./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2024.pdf, id=382, 569.12625pt x 385.44pt>
 File: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2024.pdf  used on input line 190.
+Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_2024.pdf  used on input line 194.
 (pdftex.def)             Requested size: 245.83282pt x 166.48877pt.
  [14
 
@@ -983,10 +974,10 @@ Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_numb
 <./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_ratio.pdf, id=433, 569.12625pt x 385.44pt>
 File: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_ratio.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_ratio.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_ratio.pdf  used on input line 203.
+Package pdftex.def Info: ./ModuleLevelPlots/st0_module_number vs st1_module_number_prob_ratio.pdf  used on input line 207.
 (pdftex.def)             Requested size: 264.26947pt x 178.98073pt.
 
-Overfull \vbox (0.43231pt too high) detected at line 203
+Overfull \vbox (0.43231pt too high) detected at line 207
  []
 
 [15
@@ -995,22 +986,22 @@ Overfull \vbox (0.43231pt too high) detected at line 203
 <./ModuleLevelPlots/final_module_from_st0_module1.pdf, id=483, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module1.pdf  used on input line 225.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module1.pdf  used on input line 229.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module8.pdf, id=484, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module8.pdf  used on input line 225.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module8.pdf  used on input line 229.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module2.pdf, id=485, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module2.pdf  used on input line 225.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module2.pdf  used on input line 229.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module7.pdf, id=486, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module7.pdf  used on input line 225.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module7.pdf  used on input line 229.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [16
 
@@ -1018,22 +1009,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module7.pdf  u
 <./ModuleLevelPlots/final_module_from_st0_module3.pdf, id=666, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module3.pdf  used on input line 244.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module3.pdf  used on input line 248.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module6.pdf, id=667, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module6.pdf  used on input line 244.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module6.pdf  used on input line 248.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module4.pdf, id=668, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module4.pdf  used on input line 244.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module4.pdf  used on input line 248.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/final_module_from_st0_module5.pdf, id=669, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/final_module_from_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/final_module_from_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module5.pdf  used on input line 244.
+Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module5.pdf  used on input line 248.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [17
 
@@ -1043,22 +1034,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/final_module_from_st0_module5.pdf  u
 <./ModuleLevelPlots/longTracks_st0_module1.pdf, id=854, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module1.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module1.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module8.pdf, id=855, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module8.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module8.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module2.pdf, id=856, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module2.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module2.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module7.pdf, id=857, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module7.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module7.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [19
 
@@ -1066,22 +1057,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module7.pdf  used on 
 <./ModuleLevelPlots/longTracks_st0_module3.pdf, id=1038, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module3.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module3.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module6.pdf, id=1039, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module6.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module6.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module4.pdf, id=1040, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module4.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module4.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/longTracks_st0_module5.pdf, id=1041, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module5.pdf  used on input line 320.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module5.pdf  used on input line 324.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [20
 
@@ -1089,15 +1080,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_module5.pdf  used on 
 <./ModuleLevelPlots/longTracks_st0_2023.pdf, id=1221, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_2023.pdf  used on input line 345.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_2023.pdf  used on input line 349.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/longTracks_st0_2024.pdf, id=1222, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/longTracks_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/longTracks_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_2024.pdf  used on input line 345.
+Package pdftex.def Info: ./ModuleLevelPlots/longTracks_st0_2024.pdf  used on input line 349.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 345
+Overfull \hbox (4.55623pt too wide) detected at line 349
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1107,22 +1098,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 345
 <./ModuleLevelPlots/Track_charge_st0_module1.pdf, id=1315, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module1.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module1.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module8.pdf, id=1316, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module8.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module8.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module2.pdf, id=1317, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module2.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module2.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module7.pdf, id=1318, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module7.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module7.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [22
 
@@ -1130,22 +1121,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module7.pdf  used o
 <./ModuleLevelPlots/Track_charge_st0_module3.pdf, id=1498, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module3.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module3.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module6.pdf, id=1499, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module6.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module6.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module4.pdf, id=1500, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module4.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module4.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_charge_st0_module5.pdf, id=1501, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module5.pdf  used on input line 347.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module5.pdf  used on input line 351.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [23
 
@@ -1153,15 +1144,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_module5.pdf  used o
 <./ModuleLevelPlots/Track_charge_st0_2023.pdf, id=1681, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_2023.pdf  used on input line 374.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_2023.pdf  used on input line 378.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_charge_st0_2024.pdf, id=1682, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_charge_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_charge_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_2024.pdf  used on input line 374.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_charge_st0_2024.pdf  used on input line 378.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 374
+Overfull \hbox (4.55623pt too wide) detected at line 378
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1171,22 +1162,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 374
 <./ModuleLevelPlots/Track_Chi2_st0_module1.pdf, id=1775, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module1.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module1.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module8.pdf, id=1776, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module8.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module8.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module2.pdf, id=1777, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module2.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module2.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module7.pdf, id=1778, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module7.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module7.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [25
 
@@ -1194,22 +1185,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module7.pdf  used on 
 <./ModuleLevelPlots/Track_Chi2_st0_module3.pdf, id=1959, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module3.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module3.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module6.pdf, id=1960, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module6.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module6.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module4.pdf, id=1961, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module4.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module4.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2_st0_module5.pdf, id=1962, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module5.pdf  used on input line 376.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module5.pdf  used on input line 380.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [26
 
@@ -1217,15 +1208,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_module5.pdf  used on 
 <./ModuleLevelPlots/Track_Chi2_st0_2023.pdf, id=2142, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_2023.pdf  used on input line 399.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_2023.pdf  used on input line 403.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_Chi2_st0_2024.pdf, id=2143, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_2024.pdf  used on input line 399.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2_st0_2024.pdf  used on input line 403.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 399
+Overfull \hbox (4.55623pt too wide) detected at line 403
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1235,22 +1226,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 399
 <./ModuleLevelPlots/Track_nDoF_st0_module1.pdf, id=2236, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module1.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module1.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module8.pdf, id=2237, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module8.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module8.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module2.pdf, id=2238, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module2.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module2.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module7.pdf, id=2239, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module7.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module7.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [28
 
@@ -1258,22 +1249,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module7.pdf  used on 
 <./ModuleLevelPlots/Track_nDoF_st0_module3.pdf, id=2419, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module3.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module3.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module6.pdf, id=2420, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module6.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module6.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module4.pdf, id=2421, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module4.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module4.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nDoF_st0_module5.pdf, id=2422, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module5.pdf  used on input line 401.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module5.pdf  used on input line 405.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [29
 
@@ -1281,15 +1272,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_module5.pdf  used on 
 <./ModuleLevelPlots/Track_nDoF_st0_2023.pdf, id=2602, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_2023.pdf  used on input line 428.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_2023.pdf  used on input line 433.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_nDoF_st0_2024.pdf, id=2603, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nDoF_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nDoF_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_2024.pdf  used on input line 428.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nDoF_st0_2024.pdf  used on input line 433.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 428
+Overfull \hbox (4.55623pt too wide) detected at line 433
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1299,22 +1290,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 428
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module1.pdf, id=2696, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module1.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module1.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module8.pdf, id=2697, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module8.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module8.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module2.pdf, id=2698, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module2.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module2.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf, id=2699, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [31
 
@@ -1322,22 +1313,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module7.pdf  us
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module3.pdf, id=2880, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module3.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module3.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module6.pdf, id=2881, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module6.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module6.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module4.pdf, id=2882, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module4.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module4.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf, id=2883, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf  used on input line 430.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf  used on input line 435.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [32
 
@@ -1345,15 +1336,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_module5.pdf  us
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_2023.pdf, id=3063, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2023.pdf  used on input line 456.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2023.pdf  used on input line 461.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_Chi2perDoF_st0_2024.pdf, id=3064, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_Chi2perDoF_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2024.pdf  used on input line 456.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_Chi2perDoF_st0_2024.pdf  used on input line 461.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 456
+Overfull \hbox (4.55623pt too wide) detected at line 461
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1363,22 +1354,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 456
 <./ModuleLevelPlots/Track_nLayers_st0_module1.pdf, id=3157, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module1.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module1.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module1.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module1.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module8.pdf, id=3158, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module8.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module8.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module8.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module8.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module2.pdf, id=3159, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module2.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module2.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module2.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module2.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module7.pdf, id=3160, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module7.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module7.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module7.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module7.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [34
 
@@ -1386,22 +1377,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module7.pdf  used 
 <./ModuleLevelPlots/Track_nLayers_st0_module3.pdf, id=3340, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module3.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module3.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module3.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module3.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module6.pdf, id=3341, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module6.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module6.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module6.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module6.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module4.pdf, id=3342, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module4.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module4.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module4.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module4.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_nLayers_st0_module5.pdf, id=3343, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_module5.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_module5.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module5.pdf  used on input line 458.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module5.pdf  used on input line 463.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [35
 
@@ -1409,15 +1400,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_module5.pdf  used 
 <./ModuleLevelPlots/Track_nLayers_st0_2023.pdf, id=3523, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_2023.pdf  used on input line 484.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_2023.pdf  used on input line 489.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_nLayers_st0_2024.pdf, id=3524, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_nLayers_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_nLayers_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_2024.pdf  used on input line 484.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_nLayers_st0_2024.pdf  used on input line 489.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 484
+Overfull \hbox (4.55623pt too wide) detected at line 489
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1427,22 +1418,22 @@ Overfull \hbox (4.55623pt too wide) detected at line 484
 <./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf, id=3617, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf  used on input line 503.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module1_linear.pdf  used on input line 508.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf, id=3618, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf  used on input line 503.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module8_linear.pdf  used on input line 508.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf, id=3619, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf  used on input line 503.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module2_linear.pdf  used on input line 508.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf, id=3620, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf  used on input line 503.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf  used on input line 508.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [37
 
@@ -1450,22 +1441,22 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module7_linear.pdf  use
 <./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf, id=3801, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf  used on input line 522.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module3_linear.pdf  used on input line 527.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf, id=3802, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf  used on input line 522.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module6_linear.pdf  used on input line 527.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf, id=3803, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf  used on input line 522.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module4_linear.pdf  used on input line 527.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
 <./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf, id=3804, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf  used on input line 522.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf  used on input line 527.
 (pdftex.def)             Requested size: 150.57372pt x 108.0844pt.
  [38
 
@@ -1473,15 +1464,15 @@ Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_st0_module5_linear.pdf  use
 <./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf, id=3984, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf  used on input line 548.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2023.pdf  used on input line 553.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 <./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf, id=3985, 569.12625pt x 408.52625pt>
 File: ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf Graphic file (type pdf)
 <use ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf>
-Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf  used on input line 548.
+Package pdftex.def Info: ./ModuleLevelPlots/Track_p0_linear_st0_2024.pdf  used on input line 553.
 (pdftex.def)             Requested size: 184.3758pt x 132.34557pt.
 
-Overfull \hbox (4.55623pt too wide) detected at line 548
+Overfull \hbox (4.55623pt too wide) detected at line 553
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
@@ -1493,7 +1484,7 @@ Overfull \hbox (4.55623pt too wide) detected at line 548
 <./assets/BCIDEfficiency_p0011.pdf, id=4087, 1445.4pt x 361.35pt>
 File: ./assets/BCIDEfficiency_p0011.pdf Graphic file (type pdf)
 <use ./assets/BCIDEfficiency_p0011.pdf>
-Package pdftex.def Info: ./assets/BCIDEfficiency_p0011.pdf  used on input line 38.
+Package pdftex.def Info: ./assets/BCIDEfficiency_p0011.pdf  used on input line 42.
 (pdftex.def)             Requested size: 307.28987pt x 76.82307pt.
  [41
 
@@ -1501,12 +1492,12 @@ Package pdftex.def Info: ./assets/BCIDEfficiency_p0011.pdf  used on input line 3
 <RunwisePlots/F241-2024_NEventsbyLumi.pdf, id=4134, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F241-2024_NEventsbyLumi.pdf  used on input line 61.
+Package pdftex.def Info: RunwisePlots/F241-2024_NEventsbyLumi.pdf  used on input line 65.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F241-2024_NTracksbyLumi.pdf, id=4135, 1156.32pt x 433.62pt>
 File: RunwisePlots/F241-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F241-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input line 61.
+Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input line 65.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [42
 
@@ -1514,12 +1505,12 @@ Package pdftex.def Info: RunwisePlots/F241-2024_NTracksbyLumi.pdf  used on input
 <RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf, id=4222, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf  used on input line 90.
+Package pdftex.def Info: RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf  used on input line 94.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf, id=4223, 1156.32pt x 433.62pt>
 File: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on input line 90.
+Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on input line 94.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [43
 
@@ -1527,12 +1518,12 @@ Package pdftex.def Info: RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf  used on i
 <RunwisePlots/F242-2024_NEventsbyLumi.pdf, id=4313, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F242-2024_NEventsbyLumi.pdf  used on input line 121.
+Package pdftex.def Info: RunwisePlots/F242-2024_NEventsbyLumi.pdf  used on input line 125.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F242-2024_NTracksbyLumi.pdf, id=4314, 1156.32pt x 433.62pt>
 File: RunwisePlots/F242-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F242-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input line 121.
+Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input line 125.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [44
 
@@ -1540,12 +1531,12 @@ Package pdftex.def Info: RunwisePlots/F242-2024_NTracksbyLumi.pdf  used on input
 <RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf, id=4402, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf  used on input line 165.
+Package pdftex.def Info: RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf  used on input line 169.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf, id=4403, 1156.32pt x 433.62pt>
 File: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on input line 165.
+Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on input line 169.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [45
 
@@ -1553,12 +1544,12 @@ Package pdftex.def Info: RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf  used on inp
 <RunwisePlots/F243-2024_NEventsbyLumi.pdf, id=4493, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NEventsbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NEventsbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F243-2024_NEventsbyLumi.pdf  used on input line 200.
+Package pdftex.def Info: RunwisePlots/F243-2024_NEventsbyLumi.pdf  used on input line 204.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
 <RunwisePlots/F243-2024_NTracksbyLumi.pdf, id=4494, 1156.32pt x 433.62pt>
 File: RunwisePlots/F243-2024_NTracksbyLumi.pdf Graphic file (type pdf)
 <use RunwisePlots/F243-2024_NTracksbyLumi.pdf>
-Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input line 200.
+Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input line 204.
 (pdftex.def)             Requested size: 277.84006pt x 104.1904pt.
  [46
 
@@ -1566,7 +1557,7 @@ Package pdftex.def Info: RunwisePlots/F243-2024_NTracksbyLumi.pdf  used on input
 <./RunwisePlots/MedianYieldsPhase.pdf, id=4581, 1445.4pt x 867.24pt>
 File: ./RunwisePlots/MedianYieldsPhase.pdf Graphic file (type pdf)
 <use ./RunwisePlots/MedianYieldsPhase.pdf>
-Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input line 257.
+Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input line 261.
 (pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
  [47
 
@@ -1576,10 +1567,10 @@ Package pdftex.def Info: ./RunwisePlots/MedianYieldsPhase.pdf  used on input lin
 <./RunwisePlots/Track_x0_runwise.pdf, id=4644, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_x0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_x0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line 271.
+Package pdftex.def Info: ./RunwisePlots/Track_x0_runwise.pdf  used on input line 275.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 271
+Overfull \vbox (2.64003pt too high) detected at line 275
  []
 
 [49
@@ -1588,10 +1579,10 @@ Overfull \vbox (2.64003pt too high) detected at line 271
 <./RunwisePlots/Track_y0_runwise.pdf, id=4695, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_y0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_y0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line 276.
+Package pdftex.def Info: ./RunwisePlots/Track_y0_runwise.pdf  used on input line 280.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 276
+Overfull \vbox (2.64003pt too high) detected at line 280
  []
 
 [50
@@ -1600,10 +1591,10 @@ Overfull \vbox (2.64003pt too high) detected at line 276
 <./RunwisePlots/Track_ThetaX_0_runwise.pdf, id=4746, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaX_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaX_0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on input line 282.
+Package pdftex.def Info: ./RunwisePlots/Track_ThetaX_0_runwise.pdf  used on input line 286.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 282
+Overfull \vbox (2.64003pt too high) detected at line 286
  []
 
 [51
@@ -1612,10 +1603,10 @@ Overfull \vbox (2.64003pt too high) detected at line 282
 <./RunwisePlots/Track_ThetaY_0_runwise.pdf, id=4796, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_ThetaY_0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_ThetaY_0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on input line 287.
+Package pdftex.def Info: ./RunwisePlots/Track_ThetaY_0_runwise.pdf  used on input line 291.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 287
+Overfull \vbox (2.64003pt too high) detected at line 291
  []
 
 [52
@@ -1624,10 +1615,10 @@ Overfull \vbox (2.64003pt too high) detected at line 287
 <./RunwisePlots/Track_p0_runwise.pdf, id=4846, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_p0_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_p0_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line 293.
+Package pdftex.def Info: ./RunwisePlots/Track_p0_runwise.pdf  used on input line 297.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
 
-Overfull \vbox (2.64003pt too high) detected at line 293
+Overfull \vbox (2.64003pt too high) detected at line 297
  []
 
 [53
@@ -1636,12 +1627,12 @@ Overfull \vbox (2.64003pt too high) detected at line 293
 <./RunwisePlots/longTracks_runwise.pdf, id=4896, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/longTracks_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/longTracks_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/longTracks_runwise.pdf  used on input line 321.
+Package pdftex.def Info: ./RunwisePlots/longTracks_runwise.pdf  used on input line 326.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
 <RunwisePlots/longTracks_normalisedfrom2_runwise.pdf, id=4897, 569.12625pt x 408.52625pt>
 File: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf Graphic file (type pdf)
 <use RunwisePlots/longTracks_normalisedfrom2_runwise.pdf>
-Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  used on input line 321.
+Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  used on input line 326.
 (pdftex.def)             Requested size: 169.01036pt x 121.31833pt.
  [54
 
@@ -1649,7 +1640,7 @@ Package pdftex.def Info: RunwisePlots/longTracks_normalisedfrom2_runwise.pdf  us
 <./RunwisePlots/Track_charge_runwise.pdf, id=4991, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_charge_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_charge_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input line 325.
+Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input line 330.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [55
 
@@ -1657,7 +1648,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_charge_runwise.pdf  used on input 
 <./RunwisePlots/Track_Chi2_runwise.pdf, id=5042, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input line 329.
+Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input line 334.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [56
 
@@ -1665,7 +1656,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_Chi2_runwise.pdf  used on input li
 <./RunwisePlots/Track_nDoF_runwise.pdf, id=5092, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nDoF_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input line 333.
+Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input line 338.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [57
 
@@ -1673,7 +1664,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_nDoF_runwise.pdf  used on input li
 <./RunwisePlots/Track_Chi2perDoF_runwise.pdf, id=5142, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_Chi2perDoF_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on input line 337.
+Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on input line 342.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [58
 
@@ -1681,7 +1672,7 @@ Package pdftex.def Info: ./RunwisePlots/Track_Chi2perDoF_runwise.pdf  used on in
 <./RunwisePlots/Track_nLayers_runwise.pdf, id=5193, 569.12625pt x 408.52625pt>
 File: ./RunwisePlots/Track_nLayers_runwise.pdf Graphic file (type pdf)
 <use ./RunwisePlots/Track_nLayers_runwise.pdf>
-Package pdftex.def Info: ./RunwisePlots/Track_nLayers_runwise.pdf  used on input line 341.
+Package pdftex.def Info: ./RunwisePlots/Track_nLayers_runwise.pdf  used on input line 346.
 (pdftex.def)             Requested size: 307.28987pt x 220.58842pt.
  [59
 
@@ -2428,7 +2419,7 @@ Here is how much of TeX's memory you used:
  1137 hyphenation exceptions out of 8191
  128i,15n,122p,469b,713s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on build/main.pdf (101 pages, 11612921 bytes).
+Output written on build/main.pdf (101 pages, 11613378 bytes).
 PDF statistics:
  10223 PDF objects out of 10688 (max. 8388607)
  4331 compressed objects within 44 object streams
