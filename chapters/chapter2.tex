@@ -24,7 +24,7 @@
 			\item  NTracks/Lumi : Plot on Bottom
 		\end{itemize}
     \end{itemize}
-    \scriptsize{Note: Detailed Calculation of Run Numbers can be found here [Link to Sheet]}
+    \tiny{Note: Detailed Calculation of Run Numbers and Problematic Yields can be found here \href{https://docs.google.com/spreadsheets/d/1nnYFcmhVieSHI5XAVhPiW1K6CoGYGxv2YPchwL0sqH4/edit?usp=sharing}{[Link to Sheet]}}
 \end{frame}
 
 \begin{frame}{Issues with BCID}
@@ -42,17 +42,21 @@
 \end{frame}
 
 \begin{frame}{Yield Plots for F241-2024}
+	\begin{center}
+		\begin{tikzpicture}
+			\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NEventsbyLumi.pdf}};
+			\begin{scope}[x={(image.south east)},y={(image.north west)}]
+				% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
+				\draw[red] (0.06,0.6) rectangle (0.25,0.84);
+				\node[red, below, scale=0.6] at (0.155,0.6) {\tiny Early Runs Erratic};
+				\draw[red] (0.455,0.69) rectangle (0.475,0.73);
+				\node[red, right, scale=0.6] at (0.48,0.71) {\tiny Potentially Problematic [14776]};
+			\end{scope}
+		\end{tikzpicture}
+	\end{center}
+	\begin{center}
 	\begin{tikzpicture}
-		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NEventsbyLumi.pdf}};
-		\begin{scope}[x={(image.south east)},y={(image.north west)}]
-			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
-			\draw[red] (0.06,0.6) rectangle (0.25,0.84);
-			\node[red, below, scale=0.6] at (0.155,0.6) {\tiny Early Runs Erratic};
-			\draw[red] (0.455,0.69) rectangle (0.475,0.73);
-			\node[red, right, scale=0.6] at (0.48,0.71) {\tiny Potentially Problematic [14776]};
-		\end{scope}
-	\end{tikzpicture}
-	\begin{tikzpicture}
+		\centering
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F241-2024_NTracksbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
 			% \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
@@ -62,9 +66,12 @@
 			% \node[red, right, scale=0.6] at (0.48,0.39) {\tiny Potentially Problematic [14776]};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
+
 \end{frame}
 
 \begin{frame}{Yield Plots for Tungsten-2024}
+	\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NEventsbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -77,6 +84,8 @@
 			% \node[red, right, scale=0.6] at (0.48,0.71) {\tiny Potentially Problematic [14776]};
 		\end{scope}
 	\end{tikzpicture}
+	\end{center}
+	\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/Tungsten-2024_NTracksbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -91,9 +100,11 @@
 			\node[red, right, scale=0.6] at (0.83,0.43) {\tiny Slightly Elevated?};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
 \end{frame}
 
 \begin{frame}{Yield Plots for F242-2024}
+\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NEventsbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -108,6 +119,8 @@
 			\node[red, below, scale=0.6] at (0.885,0.275) {\tiny  Low};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
+\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F242-2024_NTracksbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -122,9 +135,12 @@
 			\node[red, below, scale=0.6] at (0.885,0.275) {\tiny  Low};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
+
 \end{frame}
 
 \begin{frame}{Yield Plots for CaloNu-2024}
+\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NEventsbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -147,6 +163,8 @@
 			\node[red, above, scale=0.6] at (0.97,0.19) {\tiny Low};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
+\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/CaloNu-2024_NTracksbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -166,9 +184,11 @@
 			\node[red, above, scale=0.6] at (0.97,0.19) {\tiny Low};
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
 \end{frame}
 
 \begin{frame}{Yield Plots for F243-2024}
+	\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NEventsbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -185,6 +205,8 @@
 			\draw[red] (0.925,0.205) rectangle (0.935,0.23);
 		\end{scope}
 	\end{tikzpicture}
+\end{center}
+	\begin{center}
 	\begin{tikzpicture}
 		\node[anchor=south west, inner sep=0] (image) at (0,0) {\includegraphics[height=0.4\textheight]{RunwisePlots/F243-2024_NTracksbyLumi.pdf}};
 		\begin{scope}[x={(image.south east)},y={(image.north west)}]
@@ -201,6 +223,7 @@
 			\draw[red] (0.925,0.205) rectangle (0.935,0.23);
 		\end{scope}
 	\end{tikzpicture}
+	\end{center}
 \end{frame}
 
 
@@ -257,42 +280,62 @@
 	\vspace{-0.5cm}
 	\begin{itemize}
 		\item Possible anomaly in the F241 data?
+		\item Detailed Listing of runs with problematic yields. \href{https://docs.google.com/spreadsheets/d/1nnYFcmhVieSHI5XAVhPiW1K6CoGYGxv2YPchwL0sqH4/edit?usp=sharing}{[LINK]}
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Distribution of Track Parameters across Runs}
-	\begin{center}
-		Excellent agreement of variables across runs !
-	\end{center}
+% \begin{frame}{Distribution of Track Parameters across Runs}
+% 	\begin{center}
+% 		Excellent agreement of variables across runs !
+% 	\end{center}
 	
+% \end{frame}
+
+
+\begin{frame}{Distribution of Track Position across 2024 runs}
+	\begin{columns}
+		\begin{column}{0.5\linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_x0_runwise.pdf}
+				\caption{Distribution of Track Position in x direction at first tracking station}
+			\end{figure}
+		\end{column}
+		\begin{column}{0.5 \linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_y0_runwise.pdf}
+				\caption{Distribution of Track Position in y direction at first tracking station}
+			\end{figure}
+		\end{column}
+	\end{columns}
+	\begin{itemize}
+		\item General, runwise agreement is excellent for the Track variables
+	\end{itemize}
 \end{frame}
 
 
-\begin{frame}{Distribution of Track X0 across 2024 runs}
-	\begin{figure}
-		\includegraphics[width=\linewidth]{./RunwisePlots/Track_x0_runwise.pdf}
-	\end{figure}
-\end{frame}
-\begin{frame}{Distribution of Track Y0 across runs}
-	\begin{figure}
-		\includegraphics[width=\linewidth]{./RunwisePlots/Track_y0_runwise.pdf}
-	\end{figure}
+\begin{frame}{Distribution of Track Angles across 2024 runs}
+	\begin{columns}
+		\begin{column}{0.5\linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_ThetaX_0_runwise.pdf}
+				\caption{Distribution of Track ThetaX0 across 2024 runs}
+			\end{figure}
+		\end{column}
+		\begin{column}{0.5 \linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_ThetaY_0_runwise.pdf}
+				\caption{Distribution of Track ThetaY0 across 2024 runs}
+			\end{figure}
+		\end{column}	
+	\end{columns}
+
 \end{frame}
 
-\begin{frame}{Distribution of Track ThetaX0 across 2024 runs}
-	\begin{figure}
-		\includegraphics[width=\linewidth]{./RunwisePlots/Track_ThetaX_0_runwise.pdf}
-	\end{figure}
-\end{frame}
-\begin{frame}{Distribution of Track ThetaY0 across runs}
-	\begin{figure}
-		\includegraphics[width=\linewidth]{./RunwisePlots/Track_ThetaY_0_runwise.pdf}
-	\end{figure}
-\end{frame}
 
 \begin{frame}{Distribution of Track Momenta across runs}
 	\begin{figure}
 		\includegraphics[width=\linewidth]{./RunwisePlots/Track_p0_runwise.pdf}
+		\caption{Distribution of Track Momenta in MeV across 2024 runs, as measured by the first tracking station}
 	\end{figure}
 \end{frame}
 
@@ -330,16 +373,26 @@
 \end{frame}
 
 \begin{frame}{Track Chi2 across 2024 runs}
-	\includegraphics[width=\linewidth]{./RunwisePlots/Track_Chi2_runwise.pdf}
+	\begin{columns}
+		\begin{column}{0.5 \linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_Chi2_runwise.pdf}
+				\caption{Distribution of Track Chi2 across 2024 runs}
+			\end{figure}
+		\end{column}
+		\begin{column}{0.5 \linewidth}
+			\begin{figure}
+				\includegraphics[width=\linewidth]{./RunwisePlots/Track_Chi2perDoF_runwise.pdf}
+				\caption{Distribution of Track Chi2/DoF across 2024 runs}
+			\end{figure}
+		\end{column}
+	\end{columns}
 \end{frame}
 
-\begin{frame}{Track nDoF across 2024 runs}
+\begin{frame}{Track nDoF and nLayers across 2024 runs}
 	\includegraphics[width=\linewidth]{./RunwisePlots/Track_nDoF_runwise.pdf}
 \end{frame}
 
-\begin{frame}{Track Chi2perDoF across 2024 runs}
-	\includegraphics[width=\linewidth]{./RunwisePlots/Track_Chi2perDoF_runwise.pdf}
-\end{frame}
 
 \begin{frame}{Track nLayers across 2024 runs}
 	\includegraphics[width=\linewidth]{./RunwisePlots/Track_nLayers_runwise.pdf}
