@@ -1,7 +1,7 @@
 \begin{frame}{Recap on Previous Talk}
     \begin{itemize}
         \small
-        \item Main take away from the previous talk are [Link]
+        \item Main take away from the previous talk are [\href{https://indico.cern.ch/event/1488927/}{Link}]
         \item Most variables showed discrepancies between 2023 and 2024
         \begin{itemize}
             \item Track Positions
@@ -38,11 +38,16 @@
         \end{itemize}
         \item The runlist (luminosities) used are from:
         \href{/afs/cern.ch/user/t/torrence/public/faser/runlist/2024/faser runlist 2024 stable.csv}{/afs/cern.ch/user/t/torrence/public/faser/runlist/}
-        \item Some runs excluded from above list. [Details in Backup?]
-        \item BCID cut has been applied to the data. [Except for the p0011 data]
+        \item Some runs excluded from above list.
+        \item BCID cut has been applied to the  2023 data
+        \item BCID cut has been partially applied to the 2024 data
+        \begin{itemize}
+            \item p0012 data has the BCID cut applied
+            \item p0011 data does not have the BCID cut applied
+        \end{itemize}
     \end{itemize}
     
-    Note: The 2024 data is split into two parts due to possible issues in decoding the LHC Fill Pattern. The data in p0011 has issues with the distanceToCollidingBCID.
+    {\scriptsize \textbf{Note}: The 2024 data is split into two parts due to possible issues in decoding the LHC Fill Pattern. The data in p0011 has issues with the distanceToCollidingBCID.}
 \end{frame}
 
 \begin{frame}{Problematic Runs from List}
@@ -53,32 +58,38 @@
                 \setlength\itemsep{-0.1em}
                 \scriptsize
                 \item 11214 - 0 Lumi
-                \item 10417 - High Gain
-                \item 10419 - High Gain
-                \item 10422 - High Gain
-                \item 10424 - High Gain
-                \item 10426 - High Gain
-                \item 10443 - High Gain
-                \item 10526 - High Gain
-                \item 10538 - High Gain
-                \item 11461 - High Gain
-                \item 11463 - High Gain
-                \item 11471 - High Gain
-                \item 11478 - High Gain
-                \item 11480 - High Gain
-                \item 11486 - High Gain
-                \item 11488 - High Gain
-                \item 11491 - High Gain
-                \item 11504 - High Gain
-                \item 11506 - High Gain
+            \end{itemize}
+            \textbf{High Gain Events}
+            \begin{itemize}
+                \setlength\itemsep{-0.05em}
+                \scriptsize
+                \item 10417 
+                \item 10419 
+                \item 10422 
+                \item 10424 
+                \item 10426 
+                \item 10443 
+                \item 10526 
+                \item 10538 
+                \item 11461 
+                \item 11463 
+                \item 11471 
+                \item 11478 
+                \item 11480 
+                \item 11486 
+                \item 11488 
+                \item 11491 
+                \item 11504 
+                \item 11506 
             \end{itemize}
         \end{column}
         \begin{column}{0.5\linewidth}
             \scriptsize \textbf{Problematic Runs in 2024 RunList}
             \begin{itemize}
                 \scriptsize
-                \item 16851 - Empty directory
-                \item 16852 - Empty directory
+                \item 16851 - Empty EOS directory
+                \item 16852 - Empty EOS directory
+                \item Others highlighted in Yield Plots
             \end{itemize}
         \end{column}
     \end{columns}
@@ -86,10 +97,10 @@
 
 
 \begin{frame}{Introduction}
-    Objectives of this Follow up:
+    \textbf{Objectives of this Follow up:}
     \begin{itemize}
-        \item Look at the Module Level DQ Checks
-        \item Better look at the Yield Plots across 2024 runs
+        \item Look at the Module Level DQ Checks for Tracks
+        \item Better look at the Yields across 2024 runs
         \item Momenta binned DQ Checks 
         \begin{itemize}
             \item For better correspondence with the 2023 data
