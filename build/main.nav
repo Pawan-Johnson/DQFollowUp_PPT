@@ -191,21 +191,16 @@
 \headcommand {\beamer@framepages {95}{95}}
 \headcommand {\slideentry {0}{0}{96}{96/96}{}{0}}
 \headcommand {\beamer@framepages {96}{96}}
-\headcommand {\beamer@sectionpages {1}{96}}
-\headcommand {\beamer@subsectionpages {1}{96}}
-\headcommand {\sectionentry {1}{Backup}{97}{Backup}{0}}
-\headcommand {\slideentry {1}{0}{1}{97/97}{}{0}}
-\headcommand {\beamer@framepages {97}{97}}
-\headcommand {\gdef \insertmainframenumber {97}}
-\headcommand {\bsf@partpages {98}{97}{98}{97}}
-\headcommand {\bsf@sectionpages {98}{97}{97}{97}}
-\headcommand {\bsf@subsectionpages {98}{97}{1}{97}}
-\headcommand {\bsf@documentpages {97}}
+\headcommand {\gdef \insertmainframenumber {96}}
+\headcommand {\bsf@partpages {97}{96}{97}{96}}
+\headcommand {\bsf@sectionpages {97}{96}{1}{96}}
+\headcommand {\bsf@subsectionpages {97}{96}{1}{96}}
+\headcommand {\bsf@documentpages {96}}
 \headcommand {\bsf@disablenaventries }
-\headcommand {\beamer@partpages {98}{97}}
-\headcommand {\beamer@subsectionpages {98}{97}}
-\headcommand {\beamer@sectionpages {98}{97}}
-\headcommand {\beamer@documentpages {97}}
-\headcommand {\gdef \inserttotalframenumber {97}}
-\headcommand {\def \inserttotalframenumber {97}}
-\headcommand {\def \inserttotalframenumberwithsub {97}}
+\headcommand {\beamer@partpages {97}{96}}
+\headcommand {\beamer@subsectionpages {97}{96}}
+\headcommand {\beamer@sectionpages {97}{96}}
+\headcommand {\beamer@documentpages {96}}
+\headcommand {\gdef \inserttotalframenumber {96}}
+\headcommand {\def \inserttotalframenumber {96}}
+\headcommand {\def \inserttotalframenumberwithsub {96}}
